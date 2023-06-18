@@ -1,0 +1,222 @@
+﻿[
+    {
+        "id": "1",
+        "name_uz": "Oziq-ovqat va ovqatlanish va ichimliklar tadqiqotlari"
+    },
+    {
+        "id": "2",
+        "name_uz": "Biznes, menejment va moliya"
+    },
+    {
+        "id": "3",
+        "name_uz": "Marketing and PR"
+    },
+    {
+        "id": "4",
+        "name_uz": "Tibbiyot va salomatlik"
+    },
+    {
+        "id": "5",
+        "name_uz": "Psychology"
+    },
+    {
+        "id": "6",
+        "name_uz": "Tabiiy va aniq fanlar"
+    },
+    {
+        "id": "8",
+        "name_uz": "Philology and Culturology"
+    },
+    {
+        "id": "9",
+        "name_uz": "Qishloq va oʻrmon xoʻjaligi"
+    },
+    {
+        "id": "10",
+        "name_uz": "Ta'lim va o'qitish"
+    },
+    {
+        "id": "11",
+        "name_uz": "Arxitektura va qurilish"
+    },
+    {
+        "id": "12",
+        "name_uz": "San'at, dizayn va moda"
+    },
+    {
+        "id": "13",
+        "name_uz": "Turizm, mehmondo'stlik va restoran boshqaruvi"
+    },
+    {
+        "id": "14",
+        "name_uz": "Environmental Studies and Earth Sciences"
+    },
+    {
+        "id": "15",
+        "name_uz": "Food and Nutrition and Beverage Studies"
+    },
+    {
+        "id": "16",
+        "name_uz": "Journalism and Media Communications"
+    },
+    {
+        "id": "17",
+        "name_uz": "Law and Jurisprudence"
+    },
+    {
+        "id": "18",
+        "name_uz": "Leisure and Sports"
+    },
+    {
+        "id": "19",
+        "name_uz": "Logistics and Transportation"
+    },
+    {
+        "id": "20",
+        "name_uz": "Mathematics, Physics, and Chemistry"
+    },
+    {
+        "id": "21",
+        "name_uz": "Medicine and Health"
+    },
+    {
+        "id": "22",
+        "name_uz": "Military Science and Security"
+    },
+    {
+        "id": "23",
+        "name_uz": "Sociology, Political Science, and History"
+    },
+    {
+        "id": "24",
+        "name_uz": "Tourism, Hospitality, and Restaurant Management"
+    },
+    {
+        "id": "25",
+        "name_uz": "Pedagogika"
+    },
+    {
+        "id": "26",
+        "name_uz": "Logistika va transport"
+    },
+    {
+        "id": "27",
+        "name_uz": "Matematika"
+    },
+    {
+        "id": "28",
+        "name_uz": "Tabiiy fanlar"
+    },
+    {
+        "id": "29",
+        "name_uz": "Sanʼat"
+    },
+    {
+        "id": "30",
+        "name_uz": "Psixologiya"
+    },
+    {
+        "id": "31",
+        "name_uz": "Jurnalistika va ommaviy axborot vositalari bilan aloqa"
+    },
+    {
+        "id": "32",
+        "name_uz": "Konchilik va neft-gaz faoliyati"
+    },
+    {
+        "id": "33",
+        "name_uz": "Muhandislik va texnologiya"
+    },
+    {
+        "id": "34",
+        "name_uz": "Ishlab chiqarish texnologiyalari"
+    },
+    {
+        "id": "36",
+        "name_uz": "Iqtisodiyot, buxgalteriya hisobi va soliqqa tortish"
+    },
+    {
+        "id": "37",
+        "name_uz": "Kompyuter fanlari va IT"
+    },
+    {
+        "id": "38",
+        "name_uz": "Qishloq, oʻrmon va baliq xoʻjaligi"
+    },
+    {
+        "id": "39",
+        "name_uz": "Qishloq xoʻjaligida menejment"
+    },
+    {
+        "id": "40",
+        "name_uz": "Qishloq xoʻjalik texnikasi"
+    },
+    {
+        "id": "41",
+        "name_uz": "Veterinariya"
+    },
+    {
+        "id": "42",
+        "name_uz": "Irrigatsiya va melioratsiya"
+    },
+    {
+        "id": "43",
+        "name_uz": "Sogʻliqni saqlash"
+    },
+    {
+        "id": "44",
+        "name_uz": "Jurnalistika va ommaviy axborot vositalari bilan aloqa"
+    },
+    {
+        "id": "45",
+        "name_uz": "Xizmat koʻrsatish sohasi"
+    },
+    {
+        "id": "46",
+        "name_uz": "Transport"
+    },
+    {
+        "id": "47",
+        "name_uz": "Atrof-muhitni o'rganish va Yer fanlari"
+    },
+    {
+        "id": "48",
+        "name_uz": "Hayotiy faoliyat xavfsizligi"
+    },
+    {
+        "id": "49",
+        "name_uz": "Kompyuter texnologiyalari va informatika"
+    },
+    {
+        "id": "52",
+        "name_uz": "Turizm"
+    },
+    {
+        "id": "53",
+        "name_uz": "Turizm, mehmondo'stlik va restoran boshqaruvi"
+    },
+    {
+        "id": "54",
+        "name_uz": "Dam olish va sport"
+    },
+    {
+        "id": "55",
+        "name_uz": "Filologiya va kulturologiya"
+    },
+    {
+        "id": "56",
+        "name_uz": "Harbiy fan va xavfsizlik"
+    },
+    {
+        "id": "57",
+        "name_uz": "Ijtimoiy va Gumanitar fanlar"
+    },
+    {
+        "id": "58",
+        "name_uz": "Huquq va huquqshunoslik"
+    },
+    {
+        "id": "59",
+        "name_uz": "Sotsiologiya, siyosatshunoslik va tarix"
+    }
+]

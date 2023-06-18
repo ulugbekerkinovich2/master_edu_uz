@@ -1,0 +1,3182 @@
+﻿[
+    {
+        "direction_id": 2762,
+        "id_number": 70731001,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": 5,
+        "contract": 0
+    },
+    {
+        "direction_id": 2763,
+        "id_number": 70411601,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 0,
+        "contract": 6
+    },
+    {
+        "direction_id": 2764,
+        "id_number": 70730102,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": 7,
+        "contract": 0
+    },
+    {
+        "direction_id": 2765,
+        "id_number": 70412701,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "9129930",
+        "grant": 1,
+        "contract": 4
+    },
+    {
+        "direction_id": 2766,
+        "id_number": 70730101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": 11,
+        "contract": 0
+    },
+    {
+        "direction_id": 2767,
+        "id_number": 70730301,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": 5,
+        "contract": 0
+    },
+    {
+        "direction_id": 2768,
+        "id_number": 70730308,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2769,
+        "id_number": 70730307,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2770,
+        "id_number": 70730105,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2771,
+        "id_number": 70210401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 9,
+        "contract": 4
+    },
+    {
+        "direction_id": 2772,
+        "id_number": 70722503,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "9129930",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2773,
+        "id_number": 70730303,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2774,
+        "id_number": 70711601,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 10,
+        "contract": 0
+    },
+    {
+        "direction_id": 2775,
+        "id_number": 70730805,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2776,
+        "id_number": 70730201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2777,
+        "id_number": 70730401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": 9,
+        "contract": 0
+    },
+    {
+        "direction_id": 2778,
+        "id_number": 70730304,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2779,
+        "id_number": 70730309,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": 4,
+        "contract": 8
+    },
+    {
+        "direction_id": 2780,
+        "id_number": 70712301,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "77721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2781,
+        "id_number": 70730806,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2782,
+        "id_number": 70730103,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2783,
+        "id_number": 70730306,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 8,
+        "contract": 0
+    },
+    {
+        "direction_id": 2784,
+        "id_number": 70730902,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2785,
+        "id_number": 70910226,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 8
+    },
+    {
+        "direction_id": 2786,
+        "id_number": 70710501,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 11,
+        "contract": 0
+    },
+    {
+        "direction_id": 2787,
+        "id_number": 70721610,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2788,
+        "id_number": 70721701,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 8,
+        "contract": 0
+    },
+    {
+        "direction_id": 2789,
+        "id_number": 70530801,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2790,
+        "id_number": 70710401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 2,
+        "contract": 8
+    },
+    {
+        "direction_id": 2791,
+        "id_number": 70710402,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 2,
+        "contract": 8
+    },
+    {
+        "direction_id": 2792,
+        "id_number": 70530402,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 12
+    },
+    {
+        "direction_id": 2793,
+        "id_number": 70530512,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 7,
+        "contract": 0
+    },
+    {
+        "direction_id": 2794,
+        "id_number": 70711302,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2795,
+        "id_number": 70710404,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2796,
+        "id_number": 70721609,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "77721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2797,
+        "id_number": 70530701,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 5,
+        "contract": 0
+    },
+    {
+        "direction_id": 2798,
+        "id_number": 70812309,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2799,
+        "id_number": 70722701,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2800,
+        "id_number": 70410901,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 2,
+        "contract": 8
+    },
+    {
+        "direction_id": 2801,
+        "id_number": 70411501,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "11167920",
+        "grant": 0,
+        "contract": 4
+    },
+    {
+        "direction_id": 2802,
+        "id_number": 70410401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 8
+    },
+    {
+        "direction_id": 2803,
+        "id_number": 70412201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 8
+    },
+    {
+        "direction_id": 2804,
+        "id_number": 70411401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 1,
+        "contract": 8
+    },
+    {
+        "direction_id": 2805,
+        "id_number": 70410403,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 1,
+        "contract": 21
+    },
+    {
+        "direction_id": 2806,
+        "id_number": 70410402,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 11
+    },
+    {
+        "direction_id": 2807,
+        "id_number": 70411202,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2808,
+        "id_number": 71010303,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2809,
+        "id_number": 70112201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 1,
+        "contract": 4
+    },
+    {
+        "direction_id": 2810,
+        "id_number": 70411201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 3
+    },
+    {
+        "direction_id": 2811,
+        "id_number": 71010304,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 2,
+        "contract": 8
+    },
+    {
+        "direction_id": 2812,
+        "id_number": 71010301,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 3,
+        "contract": 6
+    },
+    {
+        "direction_id": 2813,
+        "id_number": 70420105,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2814,
+        "id_number": 70910233,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 0,
+        "contract": 8
+    },
+    {
+        "direction_id": 2815,
+        "id_number": 70230203,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 0,
+        "contract": 3
+    },
+    {
+        "direction_id": 2816,
+        "id_number": 70110401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 3,
+        "contract": 6
+    },
+    {
+        "direction_id": 2817,
+        "id_number": 70910218,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "77721270",
+        "grant": 2,
+        "contract": 6
+    },
+    {
+        "direction_id": 2818,
+        "id_number": 70230102,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 0,
+        "contract": 1
+    },
+    {
+        "direction_id": 2819,
+        "id_number": 70111401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 2,
+        "contract": 4
+    },
+    {
+        "direction_id": 2820,
+        "id_number": 70110101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 2,
+        "contract": 6
+    },
+    {
+        "direction_id": 2821,
+        "id_number": 70230201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 0,
+        "contract": 1
+    },
+    {
+        "direction_id": 2822,
+        "id_number": 70230202,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 3
+    },
+    {
+        "direction_id": 2823,
+        "id_number": 70111801,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 1,
+        "contract": 1
+    },
+    {
+        "direction_id": 2824,
+        "id_number": 70230101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 0,
+        "contract": 4
+    },
+    {
+        "direction_id": 2825,
+        "id_number": 71031902,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2826,
+        "id_number": 70711301,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 10,
+        "contract": 0
+    },
+    {
+        "direction_id": 2827,
+        "id_number": 70420101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 0,
+        "contract": 4
+    },
+    {
+        "direction_id": 2828,
+        "id_number": 70420106,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "11167920",
+        "grant": 0,
+        "contract": 4
+    },
+    {
+        "direction_id": 2829,
+        "id_number": 70420123,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 0,
+        "contract": 4
+    },
+    {
+        "direction_id": 2830,
+        "id_number": 70420131,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "11167920",
+        "grant": 0,
+        "contract": 2
+    },
+    {
+        "direction_id": 2831,
+        "id_number": 70420113,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "11167920",
+        "grant": 0,
+        "contract": 2
+    },
+    {
+        "direction_id": 2832,
+        "id_number": 70420127,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 0,
+        "contract": 1
+    },
+    {
+        "direction_id": 2833,
+        "id_number": 70910222,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "11167920",
+        "grant": 12,
+        "contract": 0
+    },
+    {
+        "direction_id": 2834,
+        "id_number": 70410601,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 0,
+        "contract": 7
+    },
+    {
+        "direction_id": 2835,
+        "id_number": 70420109,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "11167920",
+        "grant": 0,
+        "contract": 4
+    },
+    {
+        "direction_id": 2836,
+        "id_number": 70420103,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "11167920",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2837,
+        "id_number": 70420126,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "11167920",
+        "grant": 0,
+        "contract": 6
+    },
+    {
+        "direction_id": 2838,
+        "id_number": 70310107,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "11167920",
+        "grant": 1,
+        "contract": 13
+    },
+    {
+        "direction_id": 2839,
+        "id_number": 70410301,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 1,
+        "contract": 7
+    },
+    {
+        "direction_id": 2840,
+        "id_number": 70410702,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 2,
+        "contract": 8
+    },
+    {
+        "direction_id": 2841,
+        "id_number": 70711202,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2842,
+        "id_number": 70410501,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "1048590",
+        "grant": 2,
+        "contract": 8
+    },
+    {
+        "direction_id": 2843,
+        "id_number": 70410103,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 3,
+        "contract": 8
+    },
+    {
+        "direction_id": 2844,
+        "id_number": 70310101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 7
+    },
+    {
+        "direction_id": 2845,
+        "id_number": 70530401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 5,
+        "contract": 0
+    },
+    {
+        "direction_id": 2846,
+        "id_number": 70310401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 2,
+        "contract": 9
+    },
+    {
+        "direction_id": 2847,
+        "id_number": 70310106,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2848,
+        "id_number": 70310108,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 5
+    },
+    {
+        "direction_id": 2849,
+        "id_number": 70411901,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "11167920",
+        "grant": 0,
+        "contract": 6
+    },
+    {
+        "direction_id": 2850,
+        "id_number": 70310501,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 4
+    },
+    {
+        "direction_id": 2851,
+        "id_number": 70410202,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 40
+    },
+    {
+        "direction_id": 2852,
+        "id_number": 70410201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 8
+    },
+    {
+        "direction_id": 2853,
+        "id_number": 70410801,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 5
+    },
+    {
+        "direction_id": 2854,
+        "id_number": 70411902,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 9
+    },
+    {
+        "direction_id": 2855,
+        "id_number": 70411801,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "11167920",
+        "grant": 0,
+        "contract": 1
+    },
+    {
+        "direction_id": 2856,
+        "id_number": 70320101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 1,
+        "contract": 3
+    },
+    {
+        "direction_id": 2857,
+        "id_number": 70320103,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 0,
+        "contract": 3
+    },
+    {
+        "direction_id": 2858,
+        "id_number": 70611601,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2859,
+        "id_number": 70320102,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 0,
+        "contract": 3
+    },
+    {
+        "direction_id": 2860,
+        "id_number": 70310802,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "11167920",
+        "grant": 0,
+        "contract": 2
+    },
+    {
+        "direction_id": 2861,
+        "id_number": 70610502,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 3,
+        "contract": 0
+    },
+    {
+        "direction_id": 2862,
+        "id_number": 70320402,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 3,
+        "contract": 0
+    },
+    {
+        "direction_id": 2863,
+        "id_number": 70412801,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 0,
+        "contract": 5
+    },
+    {
+        "direction_id": 2864,
+        "id_number": 70610204,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 3
+    },
+    {
+        "direction_id": 2865,
+        "id_number": 70611002,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2866,
+        "id_number": 70320201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 0,
+        "contract": 4
+    },
+    {
+        "direction_id": 2867,
+        "id_number": 70610601,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 1,
+        "contract": 0
+    },
+    {
+        "direction_id": 2868,
+        "id_number": 70611702,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 5,
+        "contract": 0
+    },
+    {
+        "direction_id": 2869,
+        "id_number": 70610505,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 2,
+        "contract": 0
+    },
+    {
+        "direction_id": 2870,
+        "id_number": 70210402,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 1,
+        "contract": 3
+    },
+    {
+        "direction_id": 2871,
+        "id_number": 70610101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 9,
+        "contract": 0
+    },
+    {
+        "direction_id": 2872,
+        "id_number": 70610501,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2873,
+        "id_number": 70610201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 7,
+        "contract": 0
+    },
+    {
+        "direction_id": 2874,
+        "id_number": 70610504,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 1,
+        "contract": 8
+    },
+    {
+        "direction_id": 2875,
+        "id_number": 70711501,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 2,
+        "contract": 0
+    },
+    {
+        "direction_id": 2876,
+        "id_number": 70611701,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2877,
+        "id_number": 70611101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 2,
+        "contract": 0
+    },
+    {
+        "direction_id": 2878,
+        "id_number": 70112401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 2,
+        "contract": 4
+    },
+    {
+        "direction_id": 2879,
+        "id_number": 70611703,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 3,
+        "contract": 0
+    },
+    {
+        "direction_id": 2880,
+        "id_number": 70611001,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 5,
+        "contract": 0
+    },
+    {
+        "direction_id": 2881,
+        "id_number": 70611004,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 3,
+        "contract": 0
+    },
+    {
+        "direction_id": 2882,
+        "id_number": 70611003,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2883,
+        "id_number": 70610503,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 0
+    },
+    {
+        "direction_id": 2884,
+        "id_number": 70712104,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2885,
+        "id_number": 70721501,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 8,
+        "contract": 0
+    },
+    {
+        "direction_id": 2886,
+        "id_number": 70721503,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 5,
+        "contract": 0
+    },
+    {
+        "direction_id": 2887,
+        "id_number": 70720901,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2888,
+        "id_number": 70721611,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2889,
+        "id_number": 70721607,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2890,
+        "id_number": 70721902,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2891,
+        "id_number": 70721901,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2892,
+        "id_number": 70722001,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2893,
+        "id_number": 70530103,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 5,
+        "contract": 12
+    },
+    {
+        "direction_id": 2894,
+        "id_number": 70721602,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2895,
+        "id_number": 70721802,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 14,
+        "contract": 0
+    },
+    {
+        "direction_id": 2896,
+        "id_number": 70721606,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2897,
+        "id_number": 70730302,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2898,
+        "id_number": 70721103,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 13,
+        "contract": 0
+    },
+    {
+        "direction_id": 2899,
+        "id_number": 70721102,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 13,
+        "contract": 0
+    },
+    {
+        "direction_id": 2900,
+        "id_number": 70722401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2901,
+        "id_number": 70721612,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 8,
+        "contract": 0
+    },
+    {
+        "direction_id": 2902,
+        "id_number": 70721502,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450000",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2903,
+        "id_number": 70710106,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2904,
+        "id_number": 70712101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 3,
+        "contract": 0
+    },
+    {
+        "direction_id": 2905,
+        "id_number": 70712102,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2906,
+        "id_number": 70722501,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2907,
+        "id_number": 70712502,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2908,
+        "id_number": 70730803,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2909,
+        "id_number": 70730804,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 5,
+        "contract": 0
+    },
+    {
+        "direction_id": 2910,
+        "id_number": 70712504,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2911,
+        "id_number": 70712401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 2,
+        "contract": 0
+    },
+    {
+        "direction_id": 2912,
+        "id_number": 70712507,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2913,
+        "id_number": 70712510,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2914,
+        "id_number": 70711101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2915,
+        "id_number": 71040301,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2916,
+        "id_number": 70712604,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2917,
+        "id_number": 71040201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2918,
+        "id_number": 70712505,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2919,
+        "id_number": 70712509,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2920,
+        "id_number": 70411701,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 3,
+        "contract": 8
+    },
+    {
+        "direction_id": 2921,
+        "id_number": 70720701,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2922,
+        "id_number": 70720802,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2923,
+        "id_number": 70720801,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 5,
+        "contract": 0
+    },
+    {
+        "direction_id": 2924,
+        "id_number": 70712602,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2925,
+        "id_number": 70611501,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "77721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2926,
+        "id_number": 70730202,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2927,
+        "id_number": 70712503,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2928,
+        "id_number": 70711402,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2929,
+        "id_number": 70730801,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2930,
+        "id_number": 70712511,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2931,
+        "id_number": 70730802,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2932,
+        "id_number": 71040101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 1,
+        "contract": 7
+    },
+    {
+        "direction_id": 2933,
+        "id_number": 70713201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2934,
+        "id_number": 70712501,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7772270",
+        "grant": 7,
+        "contract": 0
+    },
+    {
+        "direction_id": 2935,
+        "id_number": 70713001,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2936,
+        "id_number": 70710602,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2937,
+        "id_number": 70712901,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2938,
+        "id_number": 70510103,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2939,
+        "id_number": 70710201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2940,
+        "id_number": 70730310,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2941,
+        "id_number": 70730311,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 10,
+        "contract": 0
+    },
+    {
+        "direction_id": 2942,
+        "id_number": 70710702,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2943,
+        "id_number": 70710701,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 10,
+        "contract": 0
+    },
+    {
+        "direction_id": 2944,
+        "id_number": 70712001,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2945,
+        "id_number": 70711201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 10,
+        "contract": 0
+    },
+    {
+        "direction_id": 2946,
+        "id_number": 70710703,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 9,
+        "contract": 0
+    },
+    {
+        "direction_id": 2947,
+        "id_number": 70610205,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 3,
+        "contract": 0
+    },
+    {
+        "direction_id": 2948,
+        "id_number": 70710504,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2949,
+        "id_number": 70710102,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2950,
+        "id_number": 70720704,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2951,
+        "id_number": 70710101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 5,
+        "contract": 0
+    },
+    {
+        "direction_id": 2952,
+        "id_number": 70710105,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 8,
+        "contract": 0
+    },
+    {
+        "direction_id": 2953,
+        "id_number": 70540301,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 12
+    },
+    {
+        "direction_id": 2954,
+        "id_number": 70720601,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2955,
+        "id_number": 70611901,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 3,
+        "contract": 0
+    },
+    {
+        "direction_id": 2956,
+        "id_number": 70720803,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2957,
+        "id_number": 70531001,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 7,
+        "contract": 0
+    },
+    {
+        "direction_id": 2958,
+        "id_number": 70611005,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2959,
+        "id_number": 70720711,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2960,
+        "id_number": 70721301,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 7,
+        "contract": 0
+    },
+    {
+        "direction_id": 2961,
+        "id_number": 70720707,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 5,
+        "contract": 0
+    },
+    {
+        "direction_id": 2962,
+        "id_number": 70530904,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 7,
+        "contract": 16
+    },
+    {
+        "direction_id": 2963,
+        "id_number": 70611503,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "77721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2964,
+        "id_number": 70711803,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2965,
+        "id_number": 70710503,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 14,
+        "contract": 0
+    },
+    {
+        "direction_id": 2966,
+        "id_number": 70720702,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2967,
+        "id_number": 70711901,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 11,
+        "contract": 0
+    },
+    {
+        "direction_id": 2968,
+        "id_number": 70721401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 8,
+        "contract": 0
+    },
+    {
+        "direction_id": 2969,
+        "id_number": 70721402,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 7,
+        "contract": 0
+    },
+    {
+        "direction_id": 2970,
+        "id_number": 70721204,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 9,
+        "contract": 0
+    },
+    {
+        "direction_id": 2971,
+        "id_number": 70721201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2972,
+        "id_number": 70712508,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2973,
+        "id_number": 70611802,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "9129930",
+        "grant": 7,
+        "contract": 0
+    },
+    {
+        "direction_id": 2974,
+        "id_number": 70711002,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "9129930",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2975,
+        "id_number": 70530905,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 4,
+        "contract": 8
+    },
+    {
+        "direction_id": 2976,
+        "id_number": 70711204,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2977,
+        "id_number": 70721403,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "9129930",
+        "grant": 5,
+        "contract": 0
+    },
+    {
+        "direction_id": 2978,
+        "id_number": 70720706,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2979,
+        "id_number": 70710103,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 5,
+        "contract": 0
+    },
+    {
+        "direction_id": 2980,
+        "id_number": 70812102,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2981,
+        "id_number": 70611502,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 3,
+        "contract": 0
+    },
+    {
+        "direction_id": 2982,
+        "id_number": 70711701,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2983,
+        "id_number": 70611401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 2984,
+        "id_number": 70110602,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2985,
+        "id_number": 70720101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 14,
+        "contract": 0
+    },
+    {
+        "direction_id": 2986,
+        "id_number": 70720710,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 7,
+        "contract": 0
+    },
+    {
+        "direction_id": 2987,
+        "id_number": 70110102,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 1,
+        "contract": 4
+    },
+    {
+        "direction_id": 2988,
+        "id_number": 70310901,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 4,
+        "contract": 8
+    },
+    {
+        "direction_id": 2989,
+        "id_number": 70220503,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 0,
+        "contract": 2
+    },
+    {
+        "direction_id": 2990,
+        "id_number": 70412401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2991,
+        "id_number": 70811902,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2992,
+        "id_number": 70820202,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2993,
+        "id_number": 70810102,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2994,
+        "id_number": 70720705,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 8,
+        "contract": 0
+    },
+    {
+        "direction_id": 2995,
+        "id_number": 70811802,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 2996,
+        "id_number": 70811702,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 2997,
+        "id_number": 70230103,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "9129930",
+        "grant": 1,
+        "contract": 4
+    },
+    {
+        "direction_id": 2998,
+        "id_number": 70211501,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "9129930",
+        "grant": 0,
+        "contract": 1
+    },
+    {
+        "direction_id": 2999,
+        "id_number": 70111301,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "9129930",
+        "grant": 1,
+        "contract": 4
+    },
+    {
+        "direction_id": 3000,
+        "id_number": 70210801,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "9129930",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 3001,
+        "id_number": 70211401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "9129930",
+        "grant": 1,
+        "contract": 1
+    },
+    {
+        "direction_id": 3002,
+        "id_number": 70420102,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "9129930",
+        "grant": 0,
+        "contract": 2
+    },
+    {
+        "direction_id": 3003,
+        "id_number": 70310701,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "11167920",
+        "grant": 0,
+        "contract": 2
+    },
+    {
+        "direction_id": 3004,
+        "id_number": 70220402,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 2,
+        "contract": 4
+    },
+    {
+        "direction_id": 3005,
+        "id_number": 70230501,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 0,
+        "contract": 8
+    },
+    {
+        "direction_id": 3006,
+        "id_number": 70212201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 3007,
+        "id_number": 70311001,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 2,
+        "contract": 6
+    },
+    {
+        "direction_id": 3008,
+        "id_number": 70220301,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 1,
+        "contract": 8
+    },
+    {
+        "direction_id": 3009,
+        "id_number": 70220303,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 3010,
+        "id_number": 70420130,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "11167920",
+        "grant": 0,
+        "contract": 3
+    },
+    {
+        "direction_id": 3011,
+        "id_number": 70110501,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 2,
+        "contract": 4
+    },
+    {
+        "direction_id": 3012,
+        "id_number": 70110104,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 2,
+        "contract": 2
+    },
+    {
+        "direction_id": 3013,
+        "id_number": 70112001,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 0,
+        "contract": 6
+    },
+    {
+        "direction_id": 3014,
+        "id_number": 70110201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 0,
+        "contract": 0
+    },
+    {
+        "direction_id": 3015,
+        "id_number": 70112301,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 2,
+        "contract": 4
+    },
+    {
+        "direction_id": 3016,
+        "id_number": 70540201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": 8,
+        "contract": 0
+    },
+    {
+        "direction_id": 3017,
+        "id_number": 70110901,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 2,
+        "contract": 4
+    },
+    {
+        "direction_id": 3018,
+        "id_number": 70110701,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 3019,
+        "id_number": 70111001,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 2,
+        "contract": 4
+    },
+    {
+        "direction_id": 3020,
+        "id_number": 70110801,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 2,
+        "contract": 4
+    },
+    {
+        "direction_id": 3021,
+        "id_number": 70110601,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 3022,
+        "id_number": 70510101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 11,
+        "contract": 13
+    },
+    {
+        "direction_id": 3023,
+        "id_number": 70530702,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 3024,
+        "id_number": 70721603,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 8,
+        "contract": 0
+    },
+    {
+        "direction_id": 3025,
+        "id_number": 70540101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 12,
+        "contract": 4
+    },
+    {
+        "direction_id": 3026,
+        "id_number": 70710506,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 3027,
+        "id_number": 70910102,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 5
+    },
+    {
+        "direction_id": 3028,
+        "id_number": 70910201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 7
+    },
+    {
+        "direction_id": 3029,
+        "id_number": 70910220,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 3030,
+        "id_number": 70910303,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 3
+    },
+    {
+        "direction_id": 3031,
+        "id_number": 70910308,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 1
+    },
+    {
+        "direction_id": 3032,
+        "id_number": 70910304,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 3033,
+        "id_number": 70910305,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 5
+    },
+    {
+        "direction_id": 3034,
+        "id_number": 70910309,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 3035,
+        "id_number": 70910307,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 3
+    },
+    {
+        "direction_id": 3036,
+        "id_number": 70910302,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 1
+    },
+    {
+        "direction_id": 3037,
+        "id_number": 70910208,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 6
+    },
+    {
+        "direction_id": 3038,
+        "id_number": 70910202,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 1
+    },
+    {
+        "direction_id": 3039,
+        "id_number": 70811002,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7721270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 3040,
+        "id_number": 70910225,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 8
+    },
+    {
+        "direction_id": 3041,
+        "id_number": 70910701,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 1
+    },
+    {
+        "direction_id": 3042,
+        "id_number": 70811003,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 3043,
+        "id_number": 70910228,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 3,
+        "contract": 0
+    },
+    {
+        "direction_id": 3044,
+        "id_number": 70910401,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 2,
+        "contract": 6
+    },
+    {
+        "direction_id": 3045,
+        "id_number": 70910205,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 16
+    },
+    {
+        "direction_id": 3046,
+        "id_number": 70910601,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 1,
+        "contract": 0
+    },
+    {
+        "direction_id": 3047,
+        "id_number": 70420125,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 3048,
+        "id_number": 70510102,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 4,
+        "contract": 0
+    },
+    {
+        "direction_id": 3049,
+        "id_number": 70910219,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 12,
+        "contract": 0
+    },
+    {
+        "direction_id": 3050,
+        "id_number": 70910306,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 3
+    },
+    {
+        "direction_id": 3051,
+        "id_number": 70910209,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 2
+    },
+    {
+        "direction_id": 3052,
+        "id_number": 70910234,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": null,
+        "contract": null
+    },
+    {
+        "direction_id": 3053,
+        "id_number": 70910214,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 4
+    },
+    {
+        "direction_id": 3054,
+        "id_number": 70230601,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "7771270",
+        "grant": 1,
+        "contract": 3
+    },
+    {
+        "direction_id": 3055,
+        "id_number": 70910206,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 7
+    },
+    {
+        "direction_id": 3056,
+        "id_number": 70911201,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 7
+    },
+    {
+        "direction_id": 3057,
+        "id_number": 70910204,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 6
+    },
+    {
+        "direction_id": 3058,
+        "id_number": 70910223,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 6,
+        "contract": 0
+    },
+    {
+        "direction_id": 3059,
+        "id_number": 70910301,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 0
+    },
+    {
+        "direction_id": 3060,
+        "id_number": 70910229,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 6
+    },
+    {
+        "direction_id": 3061,
+        "id_number": 70910211,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 20,
+        "contract": 0
+    },
+    {
+        "direction_id": 3062,
+        "id_number": 70910232,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 8
+    },
+    {
+        "direction_id": 3063,
+        "id_number": 70910224,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 6,
+        "contract": 1
+    },
+    {
+        "direction_id": 3064,
+        "id_number": 70910215,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 3,
+        "contract": 13
+    },
+    {
+        "direction_id": 3065,
+        "id_number": 70910101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 22
+    },
+    {
+        "direction_id": 3066,
+        "id_number": 70910213,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 8
+    },
+    {
+        "direction_id": 3067,
+        "id_number": 70910203,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 2
+    },
+    {
+        "direction_id": 3068,
+        "id_number": 70711801,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 10,
+        "contract": 0
+    },
+    {
+        "direction_id": 3069,
+        "id_number": 70910230,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 8
+    },
+    {
+        "direction_id": 3070,
+        "id_number": 70910216,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 3,
+        "contract": 5
+    },
+    {
+        "direction_id": 3071,
+        "id_number": 70910227,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 2,
+        "contract": 1
+    },
+    {
+        "direction_id": 3072,
+        "id_number": 70910231,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 8
+    },
+    {
+        "direction_id": 3073,
+        "id_number": 70910221,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 8
+    },
+    {
+        "direction_id": 3074,
+        "id_number": 70910403,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 8
+    },
+    {
+        "direction_id": 3075,
+        "id_number": 70910210,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 1,
+        "contract": 0
+    },
+    {
+        "direction_id": 3076,
+        "id_number": 70910217,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 5
+    },
+    {
+        "direction_id": 3077,
+        "id_number": 70910212,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 0,
+        "contract": 22
+    },
+    {
+        "direction_id": 3078,
+        "id_number": 70910207,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "10488590",
+        "grant": 8,
+        "contract": 1
+    },
+    {
+        "direction_id": 3079,
+        "id_number": 71010101,
+        "education_language_id": 1,
+        "education_type_id": 1,
+        "degrees": 2,
+        "local_tuition_fee": "8450600",
+        "grant": 1,
+        "contract": 13
+    }
+]

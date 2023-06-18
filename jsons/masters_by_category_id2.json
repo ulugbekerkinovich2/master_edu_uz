@@ -1,0 +1,2864 @@
+﻿[
+    {
+        "id": 629,
+        "direction_id": 2762,
+        "id_number": 70731001,
+        "university_id": 96,
+        "name_uz": "Koʻchmas mulkni baholash va boshqarish",
+        "name_ru": "Koʻchmas mulkni baholash va boshqarish",
+        "category_id": 11
+    },
+    {
+        "id": 630,
+        "direction_id": 2763,
+        "id_number": 70411601,
+        "university_id": 46,
+        "name_uz": "Korporativ boshqaruv",
+        "name_ru": "Korporativ boshqaruv",
+        "category_id": 11
+    },
+    {
+        "id": 631,
+        "direction_id": 2764,
+        "id_number": 70730102,
+        "university_id": 77,
+        "name_uz": "Arxitektura nazariyasi va tarixi, arxitektura yodgorliklarini tiklash",
+        "name_ru": "Arxitektura nazariyasi va tarixi, arxitektura yodgorliklarini tiklash",
+        "category_id": 11
+    },
+    {
+        "id": 632,
+        "direction_id": 2765,
+        "id_number": 70412701,
+        "university_id": 121,
+        "name_uz": "Baholash ishi va rieltorlik (obyektlar boʻyicha)",
+        "name_ru": "Baholash ishi va rieltorlik (obyektlar boʻyicha)",
+        "category_id": 11
+    },
+    {
+        "id": 633,
+        "direction_id": 2766,
+        "id_number": 70730101,
+        "university_id": 28,
+        "name_uz": "Bino va inshootlar arxitekturasi",
+        "name_ru": "Bino va inshootlar arxitekturasi",
+        "category_id": 11
+    },
+    {
+        "id": 634,
+        "direction_id": 2767,
+        "id_number": 70730301,
+        "university_id": 32,
+        "name_uz": "Bino va inshootlar qurilishi (inshootlar turi boʻyicha)",
+        "name_ru": "Bino va inshootlar qurilishi (inshootlar turi boʻyicha)",
+        "category_id": 11
+    },
+    {
+        "id": 635,
+        "direction_id": 2768,
+        "id_number": 70730308,
+        "university_id": 32,
+        "name_uz": "Bino va inshootlar zilzilabardoshligi",
+        "name_ru": "Bino va inshootlar zilzilabardoshligi",
+        "category_id": 11
+    },
+    {
+        "id": 636,
+        "direction_id": 2769,
+        "id_number": 70730307,
+        "university_id": 77,
+        "name_uz": "Bino va inshootlarni konstruktiv loyihalash",
+        "name_ru": "Bino va inshootlarni konstruktiv loyihalash",
+        "category_id": 11
+    },
+    {
+        "id": 637,
+        "direction_id": 2770,
+        "id_number": 70730105,
+        "university_id": 96,
+        "name_uz": "Bino va inshootlarni loyihalashda informatsion modellash texnologiyalari",
+        "name_ru": "Bino va inshootlarni loyihalashda informatsion modellash texnologiyalari",
+        "category_id": 11
+    },
+    {
+        "id": 638,
+        "direction_id": 2771,
+        "id_number": 70210401,
+        "university_id": 96,
+        "name_uz": "Dizayn (arxitekturaviy muhit dizayni)",
+        "name_ru": "Dizayn (arxitekturaviy muhit dizayni)",
+        "category_id": 11
+    },
+    {
+        "id": 639,
+        "direction_id": 2772,
+        "id_number": 70722503,
+        "university_id": 32,
+        "name_uz": "Geodeziya, kartografiya va kadastr (tarmoqlar va sohalar boʻyicha)",
+        "name_ru": "Geodeziya, kartografiya va kadastr (tarmoqlar va sohalar boʻyicha)",
+        "category_id": 11
+    },
+    {
+        "id": 640,
+        "direction_id": 2773,
+        "id_number": 70730303,
+        "university_id": 115,
+        "name_uz": "Infratuzilma obyektlarini qurish (temir yoʻl)",
+        "name_ru": "Infratuzilma obyektlarini qurish (temir yoʻl)",
+        "category_id": 11
+    },
+    {
+        "id": 641,
+        "direction_id": 2774,
+        "id_number": 70711601,
+        "university_id": 23,
+        "name_uz": "Intellektual muhandislik tizimlari (tarmoqlar va sohalar boʻyicha)",
+        "name_ru": "Intellektual muhandislik tizimlari (tarmoqlar va sohalar boʻyicha)",
+        "category_id": 11
+    },
+    {
+        "id": 642,
+        "direction_id": 2775,
+        "id_number": 70730805,
+        "university_id": 115,
+        "name_uz": "Koʻpriklar, tonnellar va yoʻl oʻtkazgichlar qurilishi",
+        "name_ru": "Koʻpriklar, tonnellar va yoʻl oʻtkazgichlar qurilishi",
+        "category_id": 11
+    },
+    {
+        "id": 643,
+        "direction_id": 2776,
+        "id_number": 70730201,
+        "university_id": 96,
+        "name_uz": "Kommunal infratuzilmani tashkil etish va boshqarish",
+        "name_ru": "Kommunal infratuzilmani tashkil etish va boshqarish",
+        "category_id": 11
+    },
+    {
+        "id": 644,
+        "direction_id": 2777,
+        "id_number": 70730401,
+        "university_id": 32,
+        "name_uz": "Muhandislik kommunikatsiya tizimlari, qurilishi va montaji (turlari boʻyicha)",
+        "name_ru": "Muhandislik kommunikatsiya tizimlari, qurilishi va montaji (turlari boʻyicha)",
+        "category_id": 11
+    },
+    {
+        "id": 645,
+        "direction_id": 2778,
+        "id_number": 70730304,
+        "university_id": 77,
+        "name_uz": "Qurilish konstruksiyalari, maxsus jihozlar va muhandislik tizimlari montaji",
+        "name_ru": "Qurilish konstruksiyalari, maxsus jihozlar va muhandislik tizimlari montaji",
+        "category_id": 11
+    },
+    {
+        "id": 646,
+        "direction_id": 2779,
+        "id_number": 70730309,
+        "university_id": 40,
+        "name_uz": "Qurilish materiallari, buyumlari, konstruksiyalari va ularni ishlab chiqarish texnologiyalari",
+        "name_ru": "Qurilish materiallari, buyumlari, konstruksiyalari va ularni ishlab chiqarish texnologiyalari",
+        "category_id": 11
+    },
+    {
+        "id": 647,
+        "direction_id": 2780,
+        "id_number": 70712301,
+        "university_id": 113,
+        "name_uz": "Quymakorlik ishlab chiqarishi texnologiyasi (turlari boʻyicha)",
+        "name_ru": "Quymakorlik ishlab chiqarishi texnologiyasi (turlari boʻyicha)",
+        "category_id": 11
+    },
+    {
+        "id": 648,
+        "direction_id": 2781,
+        "id_number": 70730806,
+        "university_id": 115,
+        "name_uz": "Shahar yoʻllari va koʻchalari",
+        "name_ru": "Shahar yoʻllari va koʻchalari",
+        "category_id": 11
+    },
+    {
+        "id": 649,
+        "direction_id": 2782,
+        "id_number": 70730103,
+        "university_id": 77,
+        "name_uz": "Shaharsozlik va landshaft arxitekturasi",
+        "name_ru": "Shaharsozlik va landshaft arxitekturasi",
+        "category_id": 11
+    },
+    {
+        "id": 650,
+        "direction_id": 2783,
+        "id_number": 70730306,
+        "university_id": 96,
+        "name_uz": "Unikal binolarni loyihalashtirish va qurish",
+        "name_ru": "Unikal binolarni loyihalashtirish va qurish",
+        "category_id": 11
+    },
+    {
+        "id": 651,
+        "direction_id": 2784,
+        "id_number": 70730902,
+        "university_id": 96,
+        "name_uz": "Geotexnika va yer osti gidrotexnika inshootlari",
+        "name_ru": "Geotexnika va yer osti gidrotexnika inshootlari",
+        "category_id": 47
+    },
+    {
+        "id": 652,
+        "direction_id": 2785,
+        "id_number": 70910226,
+        "university_id": 19,
+        "name_uz": "Gematologiya va transfuziologiya",
+        "name_ru": "Gematologiya va transfuziologiya",
+        "category_id": 47
+    },
+    {
+        "id": 653,
+        "direction_id": 2786,
+        "id_number": 70710501,
+        "university_id": 46,
+        "name_uz": "Gidroelektrstansiyalar",
+        "name_ru": "Gidroelektrstansiyalar",
+        "category_id": 47
+    },
+    {
+        "id": 654,
+        "direction_id": 2787,
+        "id_number": 70721610,
+        "university_id": 113,
+        "name_uz": "Gidrogeofizika va muhandislik geofizikasi",
+        "name_ru": "Gidrogeofizika va muhandislik geofizikasi",
+        "category_id": 47
+    },
+    {
+        "id": 655,
+        "direction_id": 2788,
+        "id_number": 70721701,
+        "university_id": 33,
+        "name_uz": "Gidrogeologiya va muhandislik geologiyasi",
+        "name_ru": "Gidrogeologiya va muhandislik geologiyasi",
+        "category_id": 47
+    },
+    {
+        "id": 656,
+        "direction_id": 2789,
+        "id_number": 70530801,
+        "university_id": 82,
+        "name_uz": "Gidrologiya (oʻrganish obyektlari boʻyicha)",
+        "name_ru": "Gidrologiya (oʻrganish obyektlari boʻyicha)",
+        "category_id": 47
+    },
+    {
+        "id": 657,
+        "direction_id": 2790,
+        "id_number": 70710401,
+        "university_id": 45,
+        "name_uz": "Atrof",
+        "name_ru": "Atrof",
+        "category_id": 47
+    },
+    {
+        "id": 658,
+        "direction_id": 2791,
+        "id_number": 70710402,
+        "university_id": 104,
+        "name_uz": "Ekologiya (qishloq xoʻjaligida)",
+        "name_ru": "Ekologiya (qishloq xoʻjaligida)",
+        "category_id": 47
+    },
+    {
+        "id": 659,
+        "direction_id": 2792,
+        "id_number": 70530402,
+        "university_id": 20,
+        "name_uz": "Geografiya (oʻrganish obyekti boʻyicha)",
+        "name_ru": "Geografiya (oʻrganish obyekti boʻyicha)",
+        "category_id": 47
+    },
+    {
+        "id": 660,
+        "direction_id": 2793,
+        "id_number": 70530512,
+        "university_id": 33,
+        "name_uz": "Geokimyo, mineralogiya va petrologiya",
+        "name_ru": "Geokimyo, mineralogiya va petrologiya",
+        "category_id": 47
+    },
+    {
+        "id": 661,
+        "direction_id": 2794,
+        "id_number": 70711302,
+        "university_id": 23,
+        "name_uz": "Metrologiya, standartlashtirish va sifatni boshqarish (tarmoqlar boʻyicha)",
+        "name_ru": "Metrologiya, standartlashtirish va sifatni boshqarish (tarmoqlar boʻyicha)",
+        "category_id": 47
+    },
+    {
+        "id": 662,
+        "direction_id": 2795,
+        "id_number": 70710404,
+        "university_id": 77,
+        "name_uz": "Oqova suvlarni tozalash va suv resurslarini muhofaza qilish",
+        "name_ru": "Oqova suvlarni tozalash va suv resurslarini muhofaza qilish",
+        "category_id": 47
+    },
+    {
+        "id": 663,
+        "direction_id": 2796,
+        "id_number": 70721609,
+        "university_id": 113,
+        "name_uz": "Quduqlarning geofizik tadqiqotlari",
+        "name_ru": "Quduqlarning geofizik tadqiqotlari",
+        "category_id": 47
+    },
+    {
+        "id": 664,
+        "direction_id": 2797,
+        "id_number": 70530701,
+        "university_id": 26,
+        "name_uz": "Tuproqshunoslik (tadqiqot turi boʻyicha)",
+        "name_ru": "Tuproqshunoslik (tadqiqot turi boʻyicha)",
+        "category_id": 47
+    },
+    {
+        "id": 665,
+        "direction_id": 2798,
+        "id_number": 70812309,
+        "university_id": 29,
+        "name_uz": "Yaylovlar melioratsiyasi",
+        "name_ru": "Yaylovlar melioratsiyasi",
+        "category_id": 47
+    },
+    {
+        "id": 666,
+        "direction_id": 2799,
+        "id_number": 70722701,
+        "university_id": 77,
+        "name_uz": "Yerni masofadan zondlash va GAT",
+        "name_ru": "Yerni masofadan zondlash va GAT",
+        "category_id": 47
+    },
+    {
+        "id": 667,
+        "direction_id": 2800,
+        "id_number": 70410901,
+        "university_id": 121,
+        "name_uz": "Kapital bozori va birja ishi",
+        "name_ru": "Kapital bozori va birja ishi",
+        "category_id": 2
+    },
+    {
+        "id": 668,
+        "direction_id": 2801,
+        "id_number": 70411501,
+        "university_id": 106,
+        "name_uz": "Biznes",
+        "name_ru": "Biznes",
+        "category_id": 2
+    },
+    {
+        "id": 669,
+        "direction_id": 2802,
+        "id_number": 70410401,
+        "university_id": 30,
+        "name_uz": "Davlat moliyasi va xalqaro moliya",
+        "name_ru": "Davlat moliyasi va xalqaro moliya",
+        "category_id": 2
+    },
+    {
+        "id": 670,
+        "direction_id": 2803,
+        "id_number": 70412201,
+        "university_id": 106,
+        "name_uz": "Davlat moliyaviy nazorati va auditi",
+        "name_ru": "Davlat moliyaviy nazorati va auditi",
+        "category_id": 2
+    },
+    {
+        "id": 671,
+        "direction_id": 2804,
+        "id_number": 70411401,
+        "university_id": 26,
+        "name_uz": "Inson resurslarini boshqarish",
+        "name_ru": "Inson resurslarini boshqarish",
+        "category_id": 2
+    },
+    {
+        "id": 672,
+        "direction_id": 2805,
+        "id_number": 70410403,
+        "university_id": 106,
+        "name_uz": "Investitsiyalarni boshqarish (tarmoqlar va sohalar boʻyicha)",
+        "name_ru": "Investitsiyalarni boshqarish (tarmoqlar va sohalar boʻyicha)",
+        "category_id": 2
+    },
+    {
+        "id": 673,
+        "direction_id": 2806,
+        "id_number": 70410402,
+        "university_id": 106,
+        "name_uz": "Korporativ moliya va qimmatli qogʻozlar bozori (sohalar boʻyicha)",
+        "name_ru": "Korporativ moliya va qimmatli qogʻozlar bozori (sohalar boʻyicha)",
+        "category_id": 2
+    },
+    {
+        "id": 674,
+        "direction_id": 2807,
+        "id_number": 70411202,
+        "university_id": 118,
+        "name_uz": "Loyiha boshqaruvi",
+        "name_ru": "Loyiha boshqaruvi",
+        "category_id": 2
+    },
+    {
+        "id": 675,
+        "direction_id": 2808,
+        "id_number": 71010303,
+        "university_id": 26,
+        "name_uz": "Adaptiv sogʻlomlashtirish, jismoniy tarbiya va sport",
+        "name_ru": "Adaptiv sogʻlomlashtirish, jismoniy tarbiya va sport",
+        "category_id": 54
+    },
+    {
+        "id": 676,
+        "direction_id": 2809,
+        "id_number": 70112201,
+        "university_id": 21,
+        "name_uz": "Jismoniy tarbiya va sport mashgʻulotlari nazariyasi va metodikasi",
+        "name_ru": "Jismoniy tarbiya va sport mashgʻulotlari nazariyasi va metodikasi",
+        "category_id": 54
+    },
+    {
+        "id": 677,
+        "direction_id": 2810,
+        "id_number": 70411201,
+        "university_id": 55,
+        "name_uz": "Menejment (jismoniy tarbiya va sport menejmenti)",
+        "name_ru": "Menejment (jismoniy tarbiya va sport menejmenti)",
+        "category_id": 54
+    },
+    {
+        "id": 678,
+        "direction_id": 2811,
+        "id_number": 71010304,
+        "university_id": 45,
+        "name_uz": "Ommaviy sportni rivojlantirish va sogʻlom turmush tarzini targʻib qilish",
+        "name_ru": "Ommaviy sportni rivojlantirish va sogʻlom turmush tarzini targʻib qilish",
+        "category_id": 54
+    },
+    {
+        "id": 679,
+        "direction_id": 2812,
+        "id_number": 71010301,
+        "university_id": 26,
+        "name_uz": "Sport faoliyati (faoliyat turlari boʻyicha)",
+        "name_ru": "Sport faoliyati (faoliyat turlari boʻyicha)",
+        "category_id": 54
+    },
+    {
+        "id": 680,
+        "direction_id": 2813,
+        "id_number": 70420105,
+        "university_id": 116,
+        "name_uz": "Sport huquqi",
+        "name_ru": "Sport huquqi",
+        "category_id": 54
+    },
+    {
+        "id": 681,
+        "direction_id": 2814,
+        "id_number": 70910233,
+        "university_id": 123,
+        "name_uz": "Sport tibbiyoti",
+        "name_ru": "Sport tibbiyoti",
+        "category_id": 54
+    },
+    {
+        "id": 682,
+        "direction_id": 2815,
+        "id_number": 70230203,
+        "university_id": 54,
+        "name_uz": "Badiiy tarjima (ingliz tili)",
+        "name_ru": "Badiiy tarjima (ingliz tili)",
+        "category_id": 55
+    },
+    {
+        "id": 683,
+        "direction_id": 2816,
+        "id_number": 70110401,
+        "university_id": 39,
+        "name_uz": "Maxsus pedagogika, defektologiya: logopediya",
+        "name_ru": "Maxsus pedagogika, defektologiya: logopediya",
+        "category_id": 55
+    },
+    {
+        "id": 684,
+        "direction_id": 2817,
+        "id_number": 70910218,
+        "university_id": 19,
+        "name_uz": "Morfologiya (yoʻnalishlar boʻyicha)",
+        "name_ru": "Morfologiya (yoʻnalishlar boʻyicha)",
+        "category_id": 55
+    },
+    {
+        "id": 685,
+        "direction_id": 2818,
+        "id_number": 70230102,
+        "university_id": 111,
+        "name_uz": "Mumtoz filologiya (turlari boʻyicha)",
+        "name_ru": "Mumtoz filologiya (turlari boʻyicha)",
+        "category_id": 55
+    },
+    {
+        "id": 686,
+        "direction_id": 2819,
+        "id_number": 70111401,
+        "university_id": 21,
+        "name_uz": "Oʻzbek tili va adabiyoti",
+        "name_ru": "Oʻzbek tili va adabiyoti",
+        "category_id": 55
+    },
+    {
+        "id": 687,
+        "direction_id": 2820,
+        "id_number": 70110101,
+        "university_id": 27,
+        "name_uz": "Pedagogika nazariyasi va tarixi (faoliyat turi boʻyicha)",
+        "name_ru": "Pedagogika nazariyasi va tarixi (faoliyat turi boʻyicha)",
+        "category_id": 55
+    },
+    {
+        "id": 688,
+        "direction_id": 2821,
+        "id_number": 70230201,
+        "university_id": 109,
+        "name_uz": "Qiyosiy tilshunoslik, lingvistik tarjimashunoslik: ingliz tili",
+        "name_ru": "Qiyosiy tilshunoslik, lingvistik tarjimashunoslik: ingliz tili",
+        "category_id": 55
+    },
+    {
+        "id": 689,
+        "direction_id": 2822,
+        "id_number": 70230202,
+        "university_id": 54,
+        "name_uz": "Sinxron tarjima (ingliz tili)",
+        "name_ru": "Sinxron tarjima (ingliz tili)",
+        "category_id": 55
+    },
+    {
+        "id": 690,
+        "direction_id": 2823,
+        "id_number": 70111801,
+        "university_id": 30,
+        "name_uz": "Xorijiy til va adabiyoti: ingliz tili",
+        "name_ru": "Xorijiy til va adabiyoti: ingliz tili",
+        "category_id": 55
+    },
+    {
+        "id": 691,
+        "direction_id": 2824,
+        "id_number": 70230101,
+        "university_id": 66,
+        "name_uz": "Lingvistika (arab tili)",
+        "name_ru": "Lingvistika (arab tili)",
+        "category_id": 55
+    },
+    {
+        "id": 692,
+        "direction_id": 2825,
+        "id_number": 71031902,
+        "university_id": 113,
+        "name_uz": "Favqulodda vaziyatlarda aholi xavfsizligi",
+        "name_ru": "Favqulodda vaziyatlarda aholi xavfsizligi",
+        "category_id": 56
+    },
+    {
+        "id": 693,
+        "direction_id": 2826,
+        "id_number": 70711301,
+        "university_id": 104,
+        "name_uz": "Mahsulotlar xavfsizligi va ularning sertifikatsiyasi (qishloq xoʻjaligi mahsulotlari)",
+        "name_ru": "Mahsulotlar xavfsizligi va ularning sertifikatsiyasi (qishloq xoʻjaligi mahsulotlari)",
+        "category_id": 56
+    },
+    {
+        "id": 694,
+        "direction_id": 2827,
+        "id_number": 70420101,
+        "university_id": 26,
+        "name_uz": "Advokatlik faoliyati",
+        "name_ru": "Advokatlik faoliyati",
+        "category_id": 58
+    },
+    {
+        "id": 695,
+        "direction_id": 2828,
+        "id_number": 70420106,
+        "university_id": 116,
+        "name_uz": "Davlat boshqaruvi huquqi",
+        "name_ru": "Davlat boshqaruvi huquqi",
+        "category_id": 58
+    },
+    {
+        "id": 696,
+        "direction_id": 2829,
+        "id_number": 70420123,
+        "university_id": 116,
+        "name_uz": "Intellektual mulk va axborot texnologiyalari huquqi",
+        "name_ru": "Intellektual mulk va axborot texnologiyalari huquqi",
+        "category_id": 58
+    },
+    {
+        "id": 697,
+        "direction_id": 2830,
+        "id_number": 70420131,
+        "university_id": 116,
+        "name_uz": "Kiber huquqi",
+        "name_ru": "Kiber huquqi",
+        "category_id": 58
+    },
+    {
+        "id": 698,
+        "direction_id": 2831,
+        "id_number": 70420113,
+        "university_id": 116,
+        "name_uz": "Mehnat huquqi",
+        "name_ru": "Mehnat huquqi",
+        "category_id": 58
+    },
+    {
+        "id": 699,
+        "direction_id": 2832,
+        "id_number": 70420127,
+        "university_id": 116,
+        "name_uz": "Ommaviy axborot vositalari huquqi",
+        "name_ru": "Ommaviy axborot vositalari huquqi",
+        "category_id": 58
+    },
+    {
+        "id": 700,
+        "direction_id": 2833,
+        "id_number": 70910222,
+        "university_id": 19,
+        "name_uz": "Sud",
+        "name_ru": "Sud",
+        "category_id": 58
+    },
+    {
+        "id": 701,
+        "direction_id": 2834,
+        "id_number": 70410601,
+        "university_id": 121,
+        "name_uz": "Sugʻurta ishi",
+        "name_ru": "Sugʻurta ishi",
+        "category_id": 58
+    },
+    {
+        "id": 702,
+        "direction_id": 2835,
+        "id_number": 70420109,
+        "university_id": 37,
+        "name_uz": "Xalqaro biznes huquqi",
+        "name_ru": "Xalqaro biznes huquqi",
+        "category_id": 58
+    },
+    {
+        "id": 703,
+        "direction_id": 2836,
+        "id_number": 70420103,
+        "university_id": 37,
+        "name_uz": "Xalqaro huquq (sohalar boʻyicha)",
+        "name_ru": "Xalqaro huquq (sohalar boʻyicha)",
+        "category_id": 58
+    },
+    {
+        "id": 704,
+        "direction_id": 2837,
+        "id_number": 70420126,
+        "university_id": 116,
+        "name_uz": "Korrupsiyaga qarshi kurashish va komplayens nazorati",
+        "name_ru": "Korrupsiyaga qarshi kurashish va komplayens nazorati",
+        "category_id": 58
+    },
+    {
+        "id": 705,
+        "direction_id": 2838,
+        "id_number": 70310107,
+        "university_id": 20,
+        "name_uz": "Monopoliyaga qarshi boshqaruv va raqobatni rivojlantirish",
+        "name_ru": "Monopoliyaga qarshi boshqaruv va raqobatni rivojlantirish",
+        "category_id": 58
+    },
+    {
+        "id": 706,
+        "direction_id": 2839,
+        "id_number": 70410301,
+        "university_id": 106,
+        "name_uz": "Bojxona ishi (faoliyat turlari boʻyicha)",
+        "name_ru": "Bojxona ishi (faoliyat turlari boʻyicha)",
+        "category_id": 36
+    },
+    {
+        "id": 707,
+        "direction_id": 2840,
+        "id_number": 70410702,
+        "university_id": 106,
+        "name_uz": "Davlat xaridlari",
+        "name_ru": "Davlat xaridlari",
+        "category_id": 36
+    },
+    {
+        "id": 708,
+        "direction_id": 2841,
+        "id_number": 70711202,
+        "university_id": 113,
+        "name_uz": "Oʻlchash va nazorat qilish asbob",
+        "name_ru": "Oʻlchash va nazorat qilish asbob",
+        "category_id": 36
+    },
+    {
+        "id": 709,
+        "direction_id": 2842,
+        "id_number": 70410501,
+        "university_id": 88,
+        "name_uz": "Bank ishi va auditi",
+        "name_ru": "Bank ishi va auditi",
+        "category_id": 36
+    },
+    {
+        "id": 710,
+        "direction_id": 2843,
+        "id_number": 70410103,
+        "university_id": 106,
+        "name_uz": "Byudjet hisobi va nazorati",
+        "name_ru": "Byudjet hisobi va nazorati",
+        "category_id": 36
+    },
+    {
+        "id": 711,
+        "direction_id": 2844,
+        "id_number": 70310101,
+        "university_id": 82,
+        "name_uz": "Iqtisodiy nazariya",
+        "name_ru": "Iqtisodiy nazariya",
+        "category_id": 36
+    },
+    {
+        "id": 712,
+        "direction_id": 2845,
+        "id_number": 70530401,
+        "university_id": 82,
+        "name_uz": "Iqtisodiy va ijtimoiy geografiya (oʻrganish obyekti boʻyicha)",
+        "name_ru": "Iqtisodiy va ijtimoiy geografiya (oʻrganish obyekti boʻyicha)",
+        "category_id": 36
+    },
+    {
+        "id": 713,
+        "direction_id": 2846,
+        "id_number": 70310401,
+        "university_id": 106,
+        "name_uz": "Iqtisodiy xavfsizlik",
+        "name_ru": "Iqtisodiy xavfsizlik",
+        "category_id": 36
+    },
+    {
+        "id": 714,
+        "direction_id": 2847,
+        "id_number": 70310106,
+        "university_id": 23,
+        "name_uz": "Iqtisodiyotda axborot texnologiyalari va tizimlari",
+        "name_ru": "Iqtisodiyotda axborot texnologiyalari va tizimlari",
+        "category_id": 36
+    },
+    {
+        "id": 715,
+        "direction_id": 2848,
+        "id_number": 70310108,
+        "university_id": 106,
+        "name_uz": "Iqtisodiyotda matematik metodlar",
+        "name_ru": "Iqtisodiyotda matematik metodlar",
+        "category_id": 36
+    },
+    {
+        "id": 716,
+        "direction_id": 2849,
+        "id_number": 70411901,
+        "university_id": 106,
+        "name_uz": "Jahon iqtisodiyoti (mintaqalar va faoliyat turlari boʻyicha)",
+        "name_ru": "Jahon iqtisodiyoti (mintaqalar va faoliyat turlari boʻyicha)",
+        "category_id": 36
+    },
+    {
+        "id": 717,
+        "direction_id": 2850,
+        "id_number": 70310501,
+        "university_id": 26,
+        "name_uz": "Raqamli iqtisodiyot",
+        "name_ru": "Raqamli iqtisodiyot",
+        "category_id": 36
+    },
+    {
+        "id": 718,
+        "direction_id": 2851,
+        "id_number": 70410202,
+        "university_id": 65,
+        "name_uz": "Soliq siyosati va maʼmurchiligi",
+        "name_ru": "Soliq siyosati va maʼmurchiligi",
+        "category_id": 36
+    },
+    {
+        "id": 719,
+        "direction_id": 2852,
+        "id_number": 70410201,
+        "university_id": 106,
+        "name_uz": "Soliqlar va soliqqa tortish (tarmoqlar va faoliyat turlari boʻyicha)",
+        "name_ru": "Soliqlar va soliqqa tortish (tarmoqlar va faoliyat turlari boʻyicha)",
+        "category_id": 36
+    },
+    {
+        "id": 720,
+        "direction_id": 2853,
+        "id_number": 70410801,
+        "university_id": 106,
+        "name_uz": "Statistika (tarmoqlar va sohalar boʻyicha)",
+        "name_ru": "Statistika (tarmoqlar va sohalar boʻyicha)",
+        "category_id": 36
+    },
+    {
+        "id": 721,
+        "direction_id": 2854,
+        "id_number": 70411902,
+        "university_id": 66,
+        "name_uz": "Tashqi iqtisodiy faoliyat (tarmoqlar va faoliyat yoʻnalishlari boʻyicha)",
+        "name_ru": "Tashqi iqtisodiy faoliyat (tarmoqlar va faoliyat yoʻnalishlari boʻyicha)",
+        "category_id": 36
+    },
+    {
+        "id": 722,
+        "direction_id": 2855,
+        "id_number": 70411801,
+        "university_id": 111,
+        "name_uz": "Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Turkiya",
+        "name_ru": "Xorijiy mamlakatlar iqtisodiyoti va mamlakatshunoslik: Turkiya",
+        "category_id": 36
+    },
+    {
+        "id": 723,
+        "direction_id": 2856,
+        "id_number": 70320101,
+        "university_id": 66,
+        "name_uz": "Jurnalistika (internet jurnalistika)",
+        "name_ru": "Jurnalistika (internet jurnalistika)",
+        "category_id": 31
+    },
+    {
+        "id": 724,
+        "direction_id": 2857,
+        "id_number": 70320103,
+        "university_id": 63,
+        "name_uz": "Televideniye va radioeshittirish",
+        "name_ru": "Televideniye va radioeshittirish",
+        "category_id": 31
+    },
+    {
+        "id": 725,
+        "direction_id": 2858,
+        "id_number": 70611601,
+        "university_id": 97,
+        "name_uz": "Televideniye, radioaloqa va radioeshittirish qurilmalari hamda tizimlari (turlari boʻyicha)",
+        "name_ru": "Televideniye, radioaloqa va radioeshittirish qurilmalari hamda tizimlari (turlari boʻyicha)",
+        "category_id": 31
+    },
+    {
+        "id": 726,
+        "direction_id": 2859,
+        "id_number": 70320102,
+        "university_id": 54,
+        "name_uz": "Xalqaro jurnalistika",
+        "name_ru": "Xalqaro jurnalistika",
+        "category_id": 31
+    },
+    {
+        "id": 727,
+        "direction_id": 2860,
+        "id_number": 70310802,
+        "university_id": 63,
+        "name_uz": "Xalqaro munosabatlar va jahon siyosati",
+        "name_ru": "Xalqaro munosabatlar va jahon siyosati",
+        "category_id": 31
+    },
+    {
+        "id": 728,
+        "direction_id": 2861,
+        "id_number": 70610502,
+        "university_id": 97,
+        "name_uz": "“Elektron hukumat” tizimini boshqarish",
+        "name_ru": "“Elektron hukumat” tizimini boshqarish",
+        "category_id": 37
+    },
+    {
+        "id": 729,
+        "direction_id": 2862,
+        "id_number": 70320402,
+        "university_id": 97,
+        "name_uz": "Elektron kutubxona va arxivlar",
+        "name_ru": "Elektron kutubxona va arxivlar",
+        "category_id": 37
+    },
+    {
+        "id": 730,
+        "direction_id": 2863,
+        "id_number": 70412801,
+        "university_id": 97,
+        "name_uz": "Elektron tijorat",
+        "name_ru": "Elektron tijorat",
+        "category_id": 37
+    },
+    {
+        "id": 731,
+        "direction_id": 2864,
+        "id_number": 70610204,
+        "university_id": 121,
+        "name_uz": "Axborot tizimlari (moliya)",
+        "name_ru": "Axborot tizimlari (moliya)",
+        "category_id": 37
+    },
+    {
+        "id": 732,
+        "direction_id": 2865,
+        "id_number": 70611002,
+        "university_id": 32,
+        "name_uz": "Axborot uzatish qurilmalari va tizimlari",
+        "name_ru": "Axborot uzatish qurilmalari va tizimlari",
+        "category_id": 37
+    },
+    {
+        "id": 733,
+        "direction_id": 2866,
+        "id_number": 70320201,
+        "university_id": 54,
+        "name_uz": "Axborot xizmati va jamoatchilik bilan aloqalar",
+        "name_ru": "Axborot xizmati va jamoatchilik bilan aloqalar",
+        "category_id": 37
+    },
+    {
+        "id": 734,
+        "direction_id": 2867,
+        "id_number": 70610601,
+        "university_id": 99,
+        "name_uz": "Dasturiy injiniring",
+        "name_ru": "Dasturiy injiniring",
+        "category_id": 37
+    },
+    {
+        "id": 735,
+        "direction_id": 2868,
+        "id_number": 70611702,
+        "university_id": 97,
+        "name_uz": "Intellektual axborot",
+        "name_ru": "Intellektual axborot",
+        "category_id": 37
+    },
+    {
+        "id": 736,
+        "direction_id": 2869,
+        "id_number": 70610505,
+        "university_id": 97,
+        "name_uz": "Internet ashyolari",
+        "name_ru": "Internet ashyolari",
+        "category_id": 37
+    },
+    {
+        "id": 737,
+        "direction_id": 2870,
+        "id_number": 70210402,
+        "university_id": 97,
+        "name_uz": "Kompyuter grafikasi va dizayn",
+        "name_ru": "Kompyuter grafikasi va dizayn",
+        "category_id": 37
+    },
+    {
+        "id": 738,
+        "direction_id": 2871,
+        "id_number": 70610101,
+        "university_id": 20,
+        "name_uz": "Kompyuter ilmlari va dasturlash texnologiyalari (yoʻnalishlar boʻyicha)",
+        "name_ru": "Kompyuter ilmlari va dasturlash texnologiyalari (yoʻnalishlar boʻyicha)",
+        "category_id": 37
+    },
+    {
+        "id": 739,
+        "direction_id": 2872,
+        "id_number": 70610501,
+        "university_id": 97,
+        "name_uz": "Kompyuter injiniringi (“Kompyuter tizimlarini loyihalash”, “Amaliy dasturiy vositalarni loyihalash”, “Axborot va multimedia texnologiyalari”)",
+        "name_ru": "Kompyuter injiniringi (“Kompyuter tizimlarini loyihalash”, “Amaliy dasturiy vositalarni loyihalash”, “Axborot va multimedia texnologiyalari”)",
+        "category_id": 37
+    },
+    {
+        "id": 740,
+        "direction_id": 2873,
+        "id_number": 70610201,
+        "university_id": 26,
+        "name_uz": "Kompyuter tizimlari va ularning dasturiy taʼminoti (tarmoqlar va sohalar boʻyicha)",
+        "name_ru": "Kompyuter tizimlari va ularning dasturiy taʼminoti (tarmoqlar va sohalar boʻyicha)",
+        "category_id": 37
+    },
+    {
+        "id": 741,
+        "direction_id": 2874,
+        "id_number": 70610504,
+        "university_id": 97,
+        "name_uz": "Maʼlumotlar ilmi (Data Science)",
+        "name_ru": "Maʼlumotlar ilmi (Data Science)",
+        "category_id": 37
+    },
+    {
+        "id": 742,
+        "direction_id": 2875,
+        "id_number": 70711501,
+        "university_id": 23,
+        "name_uz": "Mexatronika va robototexnika",
+        "name_ru": "Mexatronika va robototexnika",
+        "category_id": 37
+    },
+    {
+        "id": 743,
+        "direction_id": 2876,
+        "id_number": 70611701,
+        "university_id": 97,
+        "name_uz": "Mobil aloqa tizimlari",
+        "name_ru": "Mobil aloqa tizimlari",
+        "category_id": 37
+    },
+    {
+        "id": 744,
+        "direction_id": 2877,
+        "id_number": 70611101,
+        "university_id": 97,
+        "name_uz": "Multiplikatsion filmlar texnologiyalari",
+        "name_ru": "Multiplikatsion filmlar texnologiyalari",
+        "category_id": 37
+    },
+    {
+        "id": 745,
+        "direction_id": 2878,
+        "id_number": 70112401,
+        "university_id": 93,
+        "name_uz": "Professional taʼlim nazariyasi va metodikasi (axborot tizimlari va texnologiyalari)",
+        "name_ru": "Professional taʼlim nazariyasi va metodikasi (axborot tizimlari va texnologiyalari)",
+        "category_id": 37
+    },
+    {
+        "id": 746,
+        "direction_id": 2879,
+        "id_number": 70611703,
+        "university_id": 97,
+        "name_uz": "Sunʼiy yoʻldoshli aloqa tizimlari",
+        "name_ru": "Sunʼiy yoʻldoshli aloqa tizimlari",
+        "category_id": 37
+    },
+    {
+        "id": 747,
+        "direction_id": 2880,
+        "id_number": 70611001,
+        "university_id": 97,
+        "name_uz": "Telekommunikatsiya injiniringi (“Axborot uzatish tizimlari”, Telekommunikatsiya tarmoqlari”, “Teleradioeshittirish”)",
+        "name_ru": "Telekommunikatsiya injiniringi (“Axborot uzatish tizimlari”, Telekommunikatsiya tarmoqlari”, “Teleradioeshittirish”)",
+        "category_id": 37
+    },
+    {
+        "id": 748,
+        "direction_id": 2881,
+        "id_number": 70611004,
+        "university_id": 97,
+        "name_uz": "Telekommunikatsiya tizimlari va tarmoqlarida axborot xavfsizligi",
+        "name_ru": "Telekommunikatsiya tizimlari va tarmoqlarida axborot xavfsizligi",
+        "category_id": 37
+    },
+    {
+        "id": 749,
+        "direction_id": 2882,
+        "id_number": 70611003,
+        "university_id": 97,
+        "name_uz": "Telekommunikatsiya tizimlarining dasturiy taʼminoti",
+        "name_ru": "Telekommunikatsiya tizimlarining dasturiy taʼminoti",
+        "category_id": 37
+    },
+    {
+        "id": 750,
+        "direction_id": 2883,
+        "id_number": 70610503,
+        "university_id": 97,
+        "name_uz": "Tibbiyotda kompyuter tizimlari",
+        "name_ru": "Tibbiyotda kompyuter tizimlari",
+        "category_id": 37
+    },
+    {
+        "id": 751,
+        "direction_id": 2884,
+        "id_number": 70712104,
+        "university_id": 113,
+        "name_uz": " Kukunli metallurgiya, kompozitsion materiallar, qoplamalar",
+        "name_ru": " Kukunli metallurgiya, kompozitsion materiallar, qoplamalar",
+        "category_id": 32
+    },
+    {
+        "id": 752,
+        "direction_id": 2885,
+        "id_number": 70721501,
+        "university_id": 48,
+        "name_uz": "Foydali qazilma konlarini qazish (qazish usullari boʻyicha)",
+        "name_ru": "Foydali qazilma konlarini qazish (qazish usullari boʻyicha)",
+        "category_id": 32
+    },
+    {
+        "id": 753,
+        "direction_id": 2886,
+        "id_number": 70721503,
+        "university_id": 48,
+        "name_uz": "Foydali qazilmalarni boyitish (qazilma turlari boʻyicha)",
+        "name_ru": "Foydali qazilmalarni boyitish (qazilma turlari boʻyicha)",
+        "category_id": 32
+    },
+    {
+        "id": 754,
+        "direction_id": 2887,
+        "id_number": 70720901,
+        "university_id": 28,
+        "name_uz": "Kimyoviy va neft",
+        "name_ru": "Kimyoviy va neft",
+        "category_id": 32
+    },
+    {
+        "id": 755,
+        "direction_id": 2888,
+        "id_number": 70721611,
+        "university_id": 113,
+        "name_uz": "Konchilik geofizikasi",
+        "name_ru": "Konchilik geofizikasi",
+        "category_id": 32
+    },
+    {
+        "id": 756,
+        "direction_id": 2889,
+        "id_number": 70721607,
+        "university_id": 113,
+        "name_uz": "Konchilik geologiyasi va geofizikasi",
+        "name_ru": "Konchilik geologiyasi va geofizikasi",
+        "category_id": 32
+    },
+    {
+        "id": 757,
+        "direction_id": 2890,
+        "id_number": 70721902,
+        "university_id": 48,
+        "name_uz": "Konchilik ishlarini elektrlashtirish va avtomatlashtirish",
+        "name_ru": "Konchilik ishlarini elektrlashtirish va avtomatlashtirish",
+        "category_id": 32
+    },
+    {
+        "id": 758,
+        "direction_id": 2891,
+        "id_number": 70721901,
+        "university_id": 48,
+        "name_uz": "Konchilik mashinalari va jihozlari",
+        "name_ru": "Konchilik mashinalari va jihozlari",
+        "category_id": 32
+    },
+    {
+        "id": 759,
+        "direction_id": 2892,
+        "id_number": 70722001,
+        "university_id": 113,
+        "name_uz": "Marksheyderlik ishi (sohalar boʻyicha)",
+        "name_ru": "Marksheyderlik ishi (sohalar boʻyicha)",
+        "category_id": 32
+    },
+    {
+        "id": 760,
+        "direction_id": 2893,
+        "id_number": 70530103,
+        "university_id": 93,
+        "name_uz": "Neft va gaz kimyosi va texnologiyasi",
+        "name_ru": "Neft va gaz kimyosi va texnologiyasi",
+        "category_id": 32
+    },
+    {
+        "id": 761,
+        "direction_id": 2894,
+        "id_number": 70721602,
+        "university_id": 33,
+        "name_uz": "Neft va gaz konlari geologiyasi, qidiruv va razvedkasi",
+        "name_ru": "Neft va gaz konlari geologiyasi, qidiruv va razvedkasi",
+        "category_id": 32
+    },
+    {
+        "id": 762,
+        "direction_id": 2895,
+        "id_number": 70721802,
+        "university_id": 28,
+        "name_uz": "Neft va gaz konlari mashina va jihozlaridan foydalanish",
+        "name_ru": "Neft va gaz konlari mashina va jihozlaridan foydalanish",
+        "category_id": 32
+    },
+    {
+        "id": 763,
+        "direction_id": 2896,
+        "id_number": 70721606,
+        "university_id": 113,
+        "name_uz": "Neft va gaz konlarini qidiruv",
+        "name_ru": "Neft va gaz konlarini qidiruv",
+        "category_id": 32
+    },
+    {
+        "id": 764,
+        "direction_id": 2897,
+        "id_number": 70730302,
+        "university_id": 113,
+        "name_uz": "Neft va gaz quvurlari, baza va omborlarini qurish va ulardan foydalanish",
+        "name_ru": "Neft va gaz quvurlari, baza va omborlarini qurish va ulardan foydalanish",
+        "category_id": 32
+    },
+    {
+        "id": 765,
+        "direction_id": 2898,
+        "id_number": 70721103,
+        "university_id": 28,
+        "name_uz": "Neft va gazni qayta ishlash jarayonlari va apparatlari",
+        "name_ru": "Neft va gazni qayta ishlash jarayonlari va apparatlari",
+        "category_id": 32
+    },
+    {
+        "id": 766,
+        "direction_id": 2899,
+        "id_number": 70721102,
+        "university_id": 28,
+        "name_uz": "Neft va gazni qayta ishlash va kimyoviy texnologiyasi",
+        "name_ru": "Neft va gazni qayta ishlash va kimyoviy texnologiyasi",
+        "category_id": 32
+    },
+    {
+        "id": 767,
+        "direction_id": 2900,
+        "id_number": 70722401,
+        "university_id": 48,
+        "name_uz": "Noyob va radioaktiv metallar rudalarini qazib olish, boyitish va qayta ishlash texnologiyasi",
+        "name_ru": "Noyob va radioaktiv metallar rudalarini qazib olish, boyitish va qayta ishlash texnologiyasi",
+        "category_id": 32
+    },
+    {
+        "id": 768,
+        "direction_id": 2901,
+        "id_number": 70721612,
+        "university_id": 33,
+        "name_uz": "Ruda va noruda foydali qazilma konlarini izlash va qidirish",
+        "name_ru": "Ruda va noruda foydali qazilma konlarini izlash va qidirish",
+        "category_id": 32
+    },
+    {
+        "id": 769,
+        "direction_id": 2902,
+        "id_number": 70721502,
+        "university_id": 113,
+        "name_uz": "Shaxta va yer osti muhandisligi (marksheyderlik ishi)",
+        "name_ru": "Shaxta va yer osti muhandisligi (marksheyderlik ishi)",
+        "category_id": 32
+    },
+    {
+        "id": 770,
+        "direction_id": 2903,
+        "id_number": 70710106,
+        "university_id": 40,
+        "name_uz": "Materiallar kimyoviy qarshiligi va zanglashdan himoyalash",
+        "name_ru": "Materiallar kimyoviy qarshiligi va zanglashdan himoyalash",
+        "category_id": 32
+    },
+    {
+        "id": 771,
+        "direction_id": 2904,
+        "id_number": 70712101,
+        "university_id": 48,
+        "name_uz": "Metallurgiya (metall turlari boʻyicha)",
+        "name_ru": "Metallurgiya (metall turlari boʻyicha)",
+        "category_id": 32
+    },
+    {
+        "id": 772,
+        "direction_id": 2905,
+        "id_number": 70712102,
+        "university_id": 113,
+        "name_uz": "Metallurgiya mashinalari va jihozlari (ishlab chiqarish turi boʻyicha)",
+        "name_ru": "Metallurgiya mashinalari va jihozlari (ishlab chiqarish turi boʻyicha)",
+        "category_id": 32
+    },
+    {
+        "id": 773,
+        "direction_id": 2906,
+        "id_number": 70722501,
+        "university_id": 113,
+        "name_uz": "Aviatsiya",
+        "name_ru": "Aviatsiya",
+        "category_id": 26
+    },
+    {
+        "id": 774,
+        "direction_id": 2907,
+        "id_number": 70712502,
+        "university_id": 23,
+        "name_uz": "Avtomobil transporti va yoʻl",
+        "name_ru": "Avtomobil transporti va yoʻl",
+        "category_id": 26
+    },
+    {
+        "id": 775,
+        "direction_id": 2908,
+        "id_number": 70730803,
+        "university_id": 40,
+        "name_uz": "Avtomobil yoʻllari va aerodromlar (turlari boʻyicha)",
+        "name_ru": "Avtomobil yoʻllari va aerodromlar (turlari boʻyicha)",
+        "category_id": 26
+    },
+    {
+        "id": 776,
+        "direction_id": 2909,
+        "id_number": 70730804,
+        "university_id": 46,
+        "name_uz": "Avtomobil yoʻllarini loyihalash va qurish",
+        "name_ru": "Avtomobil yoʻllarini loyihalash va qurish",
+        "category_id": 26
+    },
+    {
+        "id": 777,
+        "direction_id": 2910,
+        "id_number": 70712504,
+        "university_id": 23,
+        "name_uz": "Avtomobillar va avtomobil xoʻjaligi",
+        "name_ru": "Avtomobillar va avtomobil xoʻjaligi",
+        "category_id": 26
+    },
+    {
+        "id": 778,
+        "direction_id": 2911,
+        "id_number": 70712401,
+        "university_id": 23,
+        "name_uz": "Avtomobilsozlik va traktorsozlik",
+        "name_ru": "Avtomobilsozlik va traktorsozlik",
+        "category_id": 26
+    },
+    {
+        "id": 779,
+        "direction_id": 2912,
+        "id_number": 70712507,
+        "university_id": 115,
+        "name_uz": "Avtotransport vositalarini sinash",
+        "name_ru": "Avtotransport vositalarini sinash",
+        "category_id": 26
+    },
+    {
+        "id": 780,
+        "direction_id": 2913,
+        "id_number": 70712510,
+        "university_id": 115,
+        "name_uz": "Elektr poyezdlar",
+        "name_ru": "Elektr poyezdlar",
+        "category_id": 26
+    },
+    {
+        "id": 781,
+        "direction_id": 2914,
+        "id_number": 70711101,
+        "university_id": 113,
+        "name_uz": "Energiya mashinasozligi (tarmoqlar boʻyicha)",
+        "name_ru": "Energiya mashinasozligi (tarmoqlar boʻyicha)",
+        "category_id": 26
+    },
+    {
+        "id": 782,
+        "direction_id": 2915,
+        "id_number": 71040301,
+        "university_id": 115,
+        "name_uz": "Harakat xavfsizligi va uni tashkil etish (avtomobil transporti)",
+        "name_ru": "Harakat xavfsizligi va uni tashkil etish (avtomobil transporti)",
+        "category_id": 26
+    },
+    {
+        "id": 783,
+        "direction_id": 2916,
+        "id_number": 70712604,
+        "university_id": 115,
+        "name_uz": "Havo kemalari va aviatsiya dvigatellaridan foydalanish",
+        "name_ru": "Havo kemalari va aviatsiya dvigatellaridan foydalanish",
+        "category_id": 26
+    },
+    {
+        "id": 784,
+        "direction_id": 2917,
+        "id_number": 71040201,
+        "university_id": 115,
+        "name_uz": "Havodagi harakatni boshqarish va aeronavigatsiya",
+        "name_ru": "Havodagi harakatni boshqarish va aeronavigatsiya",
+        "category_id": 26
+    },
+    {
+        "id": 785,
+        "direction_id": 2918,
+        "id_number": 70712505,
+        "university_id": 113,
+        "name_uz": "Ichki yonuv dvigatellarini sinash va ulardan foydalanish",
+        "name_ru": "Ichki yonuv dvigatellarini sinash va ulardan foydalanish",
+        "category_id": 26
+    },
+    {
+        "id": 786,
+        "direction_id": 2919,
+        "id_number": 70712509,
+        "university_id": 23,
+        "name_uz": "Intellektual transport tizimlari",
+        "name_ru": "Intellektual transport tizimlari",
+        "category_id": 26
+    },
+    {
+        "id": 787,
+        "direction_id": 2920,
+        "id_number": 70411701,
+        "university_id": 106,
+        "name_uz": "Logistika (yoʻnalishlar boʻyicha)",
+        "name_ru": "Logistika (yoʻnalishlar boʻyicha)",
+        "category_id": 26
+    },
+    {
+        "id": 788,
+        "direction_id": 2921,
+        "id_number": 70720701,
+        "university_id": 46,
+        "name_uz": "Mashinashunoslik",
+        "name_ru": "Mashinashunoslik",
+        "category_id": 26
+    },
+    {
+        "id": 789,
+        "direction_id": 2922,
+        "id_number": 70720802,
+        "university_id": 28,
+        "name_uz": "Mashinasozlik ishlab chiqarishning avtomatlashtirilgan dastgohli komplekslari",
+        "name_ru": "Mashinasozlik ishlab chiqarishning avtomatlashtirilgan dastgohli komplekslari",
+        "category_id": 26
+    },
+    {
+        "id": 790,
+        "direction_id": 2923,
+        "id_number": 70720801,
+        "university_id": 115,
+        "name_uz": "Mashinasozlik texnologiyasi va jihozlari (temir yoʻl transporti)",
+        "name_ru": "Mashinasozlik texnologiyasi va jihozlari (temir yoʻl transporti)",
+        "category_id": 26
+    },
+    {
+        "id": 791,
+        "direction_id": 2924,
+        "id_number": 70712602,
+        "university_id": 115,
+        "name_uz": "Pilotaj",
+        "name_ru": "Pilotaj",
+        "category_id": 26
+    },
+    {
+        "id": 792,
+        "direction_id": 2925,
+        "id_number": 70611501,
+        "university_id": 115,
+        "name_uz": "Radioelektron qurilmalar va tizimlar (temir yoʻl transporti)",
+        "name_ru": "Radioelektron qurilmalar va tizimlar (temir yoʻl transporti)",
+        "category_id": 26
+    },
+    {
+        "id": 793,
+        "direction_id": 2926,
+        "id_number": 70730202,
+        "university_id": 77,
+        "name_uz": "Shahar transporti xoʻjaligi va aloqa yoʻllari",
+        "name_ru": "Shahar transporti xoʻjaligi va aloqa yoʻllari",
+        "category_id": 26
+    },
+    {
+        "id": 794,
+        "direction_id": 2927,
+        "id_number": 70712503,
+        "university_id": 115,
+        "name_uz": "Temir yoʻl transporti (lokomotivlar)",
+        "name_ru": "Temir yoʻl transporti (lokomotivlar)",
+        "category_id": 26
+    },
+    {
+        "id": 795,
+        "direction_id": 2928,
+        "id_number": 70711402,
+        "university_id": 115,
+        "name_uz": "Temir yoʻl transportida avtomatika va telemexanika",
+        "name_ru": "Temir yoʻl transportida avtomatika va telemexanika",
+        "category_id": 26
+    },
+    {
+        "id": 796,
+        "direction_id": 2929,
+        "id_number": 70730801,
+        "university_id": 115,
+        "name_uz": "Temir yoʻldan foydalanish va temir yoʻl xoʻjaligi",
+        "name_ru": "Temir yoʻldan foydalanish va temir yoʻl xoʻjaligi",
+        "category_id": 26
+    },
+    {
+        "id": 797,
+        "direction_id": 2930,
+        "id_number": 70712511,
+        "university_id": 115,
+        "name_uz": "Tezyurar elektropoyezdlar",
+        "name_ru": "Tezyurar elektropoyezdlar",
+        "category_id": 26
+    },
+    {
+        "id": 798,
+        "direction_id": 2931,
+        "id_number": 70730802,
+        "university_id": 115,
+        "name_uz": "Transport inshootlarining ekspluatatsiyasi (avtomobil yoʻllari)",
+        "name_ru": "Transport inshootlarining ekspluatatsiyasi (avtomobil yoʻllari)",
+        "category_id": 26
+    },
+    {
+        "id": 799,
+        "direction_id": 2932,
+        "id_number": 71040101,
+        "university_id": 115,
+        "name_uz": "Transport logistikasi (avtomobil transporti)",
+        "name_ru": "Transport logistikasi (avtomobil transporti)",
+        "category_id": 26
+    },
+    {
+        "id": 800,
+        "direction_id": 2933,
+        "id_number": 70713201,
+        "university_id": 115,
+        "name_uz": "Transportda tashishni tashkil etish va boshqarish (avtotransport)",
+        "name_ru": "Transportda tashishni tashkil etish va boshqarish (avtotransport)",
+        "category_id": 26
+    },
+    {
+        "id": 801,
+        "direction_id": 2934,
+        "id_number": 70712501,
+        "university_id": 115,
+        "name_uz": "Yer usti transport vositalari va tizimlari (avtomobil transport)",
+        "name_ru": "Yer usti transport vositalari va tizimlari (avtomobil transport)",
+        "category_id": 26
+    },
+    {
+        "id": 802,
+        "direction_id": 2935,
+        "id_number": 70713001,
+        "university_id": 113,
+        "name_uz": "Avtotransport vositalarining gaz ballonli uskunalariga texnik xizmat koʻrsatish",
+        "name_ru": "Avtotransport vositalarining gaz ballonli uskunalariga texnik xizmat koʻrsatish",
+        "category_id": 33
+    },
+    {
+        "id": 803,
+        "direction_id": 2936,
+        "id_number": 70710602,
+        "university_id": 113,
+        "name_uz": "Elektr stansiyalari",
+        "name_ru": "Elektr stansiyalari",
+        "category_id": 33
+    },
+    {
+        "id": 804,
+        "direction_id": 2937,
+        "id_number": 70712901,
+        "university_id": 115,
+        "name_uz": "Amaliy kosmik texnologiyalar",
+        "name_ru": "Amaliy kosmik texnologiyalar",
+        "category_id": 33
+    },
+    {
+        "id": 805,
+        "direction_id": 2938,
+        "id_number": 70510103,
+        "university_id": 30,
+        "name_uz": "Biotexnologiya",
+        "name_ru": "Biotexnologiya",
+        "category_id": 33
+    },
+    {
+        "id": 806,
+        "direction_id": 2939,
+        "id_number": 70710201,
+        "university_id": 48,
+        "name_uz": "Biotexnologiya (mahsulot turi boʻyicha)",
+        "name_ru": "Biotexnologiya (mahsulot turi boʻyicha)",
+        "category_id": 33
+    },
+    {
+        "id": 807,
+        "direction_id": 2940,
+        "id_number": 70730310,
+        "university_id": 96,
+        "name_uz": "Bogʻlanuvchan qurilish materiallari texnologiyasi",
+        "name_ru": "Bogʻlanuvchan qurilish materiallari texnologiyasi",
+        "category_id": 33
+    },
+    {
+        "id": 808,
+        "direction_id": 2941,
+        "id_number": 70730311,
+        "university_id": 96,
+        "name_uz": "Devorbop va pardozbop materiallar texnologiyasi",
+        "name_ru": "Devorbop va pardozbop materiallar texnologiyasi",
+        "category_id": 33
+    },
+    {
+        "id": 809,
+        "direction_id": 2942,
+        "id_number": 70710702,
+        "university_id": 113,
+        "name_uz": "Elektr izolyatsiyali va kabelli texnika",
+        "name_ru": "Elektr izolyatsiyali va kabelli texnika",
+        "category_id": 33
+    },
+    {
+        "id": 810,
+        "direction_id": 2943,
+        "id_number": 70710701,
+        "university_id": 23,
+        "name_uz": "Elektr mexanikasi (tarmoqlar boʻyicha)",
+        "name_ru": "Elektr mexanikasi (tarmoqlar boʻyicha)",
+        "category_id": 33
+    },
+    {
+        "id": 811,
+        "direction_id": 2944,
+        "id_number": 70712001,
+        "university_id": 32,
+        "name_uz": "Elektron apparaturalar ishlab chiqarish texnologiyasi va elektronika sanoati texnologik mashina jihozlari",
+        "name_ru": "Elektron apparaturalar ishlab chiqarish texnologiyasi va elektronika sanoati texnologik mashina jihozlari",
+        "category_id": 33
+    },
+    {
+        "id": 812,
+        "direction_id": 2945,
+        "id_number": 70711201,
+        "university_id": 82,
+        "name_uz": "Elektronika va elektron texnikasi (tarmoqlar boʻyicha)",
+        "name_ru": "Elektronika va elektron texnikasi (tarmoqlar boʻyicha)",
+        "category_id": 33
+    },
+    {
+        "id": 813,
+        "direction_id": 2946,
+        "id_number": 70710703,
+        "university_id": 23,
+        "name_uz": "Elektrotexnik majmualar va tizimlar (tarmoqlar boʻyicha)",
+        "name_ru": "Elektrotexnik majmualar va tizimlar (tarmoqlar boʻyicha)",
+        "category_id": 33
+    },
+    {
+        "id": 814,
+        "direction_id": 2947,
+        "id_number": 70610205,
+        "university_id": 97,
+        "name_uz": "Geoaxborot tizimlari va texnologiyalari",
+        "name_ru": "Geoaxborot tizimlari va texnologiyalari",
+        "category_id": 33
+    },
+    {
+        "id": 815,
+        "direction_id": 2948,
+        "id_number": 70710504,
+        "university_id": 113,
+        "name_uz": "Issiqlik texnikasi (qoʻllanish obyekti boʻyicha)",
+        "name_ru": "Issiqlik texnikasi (qoʻllanish obyekti boʻyicha)",
+        "category_id": 33
+    },
+    {
+        "id": 816,
+        "direction_id": 2949,
+        "id_number": 70710102,
+        "university_id": 118,
+        "name_uz": "Katalizatorlar va adsorbentlar texnologiyasi",
+        "name_ru": "Katalizatorlar va adsorbentlar texnologiyasi",
+        "category_id": 33
+    },
+    {
+        "id": 817,
+        "direction_id": 2950,
+        "id_number": 70720704,
+        "university_id": 32,
+        "name_uz": "Kimyoviy sanoat va qurilish materiallari korxonalarining mashinalari hamda apparatlari",
+        "name_ru": "Kimyoviy sanoat va qurilish materiallari korxonalarining mashinalari hamda apparatlari",
+        "category_id": 33
+    },
+    {
+        "id": 818,
+        "direction_id": 2951,
+        "id_number": 70710101,
+        "university_id": 28,
+        "name_uz": "Kimyoviy texnologiya (ishlab chiqarish turlari boʻyicha)",
+        "name_ru": "Kimyoviy texnologiya (ishlab chiqarish turlari boʻyicha)",
+        "category_id": 33
+    },
+    {
+        "id": 819,
+        "direction_id": 2952,
+        "id_number": 70710105,
+        "university_id": 47,
+        "name_uz": "Kimyoviy texnologiya jarayonlari va apparatlari (ishlab chiqarish turi boʻyicha)",
+        "name_ru": "Kimyoviy texnologiya jarayonlari va apparatlari (ishlab chiqarish turi boʻyicha)",
+        "category_id": 33
+    },
+    {
+        "id": 820,
+        "direction_id": 2953,
+        "id_number": 70540301,
+        "university_id": 128,
+        "name_uz": "Matematik injiniring",
+        "name_ru": "Matematik injiniring",
+        "category_id": 33
+    },
+    {
+        "id": 821,
+        "direction_id": 2954,
+        "id_number": 70720601,
+        "university_id": 23,
+        "name_uz": "Materialshunoslik va materiallar texnologiyasi (tarmoqlar boʻyicha)",
+        "name_ru": "Materialshunoslik va materiallar texnologiyasi (tarmoqlar boʻyicha)",
+        "category_id": 33
+    },
+    {
+        "id": 822,
+        "direction_id": 2955,
+        "id_number": 70611901,
+        "university_id": 97,
+        "name_uz": "Maxsus yoritish texnologiyalari",
+        "name_ru": "Maxsus yoritish texnologiyalari",
+        "category_id": 33
+    },
+    {
+        "id": 823,
+        "direction_id": 2956,
+        "id_number": 70720803,
+        "university_id": 113,
+        "name_uz": "Metallarga bosim bilan ishlov berish (turlari boʻyicha)",
+        "name_ru": "Metallarga bosim bilan ishlov berish (turlari boʻyicha)",
+        "category_id": 33
+    },
+    {
+        "id": 824,
+        "direction_id": 2957,
+        "id_number": 70531001,
+        "university_id": 82,
+        "name_uz": "Mexanika va matematik modellashtirish",
+        "name_ru": "Mexanika va matematik modellashtirish",
+        "category_id": 33
+    },
+    {
+        "id": 825,
+        "direction_id": 2958,
+        "id_number": 70611005,
+        "university_id": 97,
+        "name_uz": "Optik tolali tarmoqlar texnik ekspluatatsiyasi",
+        "name_ru": "Optik tolali tarmoqlar texnik ekspluatatsiyasi",
+        "category_id": 33
+    },
+    {
+        "id": 826,
+        "direction_id": 2959,
+        "id_number": 70720711,
+        "university_id": 28,
+        "name_uz": "Paxta sanoati mashinalari va jihozlari",
+        "name_ru": "Paxta sanoati mashinalari va jihozlari",
+        "category_id": 33
+    },
+    {
+        "id": 827,
+        "direction_id": 2960,
+        "id_number": 70721301,
+        "university_id": 32,
+        "name_uz": "Paxtani dastlabki ishlash va urugʻ tayyorlash texnologiyasi",
+        "name_ru": "Paxtani dastlabki ishlash va urugʻ tayyorlash texnologiyasi",
+        "category_id": 33
+    },
+    {
+        "id": 828,
+        "direction_id": 2961,
+        "id_number": 70720707,
+        "university_id": 23,
+        "name_uz": "Payvandlash ishlab chiqarish texnologiyasi va jihozlari",
+        "name_ru": "Payvandlash ishlab chiqarish texnologiyasi va jihozlari",
+        "category_id": 33
+    },
+    {
+        "id": 829,
+        "direction_id": 2962,
+        "id_number": 70530904,
+        "university_id": 20,
+        "name_uz": "Qayta tiklanuvchan energiya manbalari va barqaror atrof",
+        "name_ru": "Qayta tiklanuvchan energiya manbalari va barqaror atrof",
+        "category_id": 33
+    },
+    {
+        "id": 830,
+        "direction_id": 2963,
+        "id_number": 70611503,
+        "university_id": 113,
+        "name_uz": "Radiotexnik qurilmalar va aloqa vositalari",
+        "name_ru": "Radiotexnik qurilmalar va aloqa vositalari",
+        "category_id": 33
+    },
+    {
+        "id": 831,
+        "direction_id": 2964,
+        "id_number": 70711803,
+        "university_id": 113,
+        "name_uz": "Rentgen texnikasi va texnologiyasi",
+        "name_ru": "Rentgen texnikasi va texnologiyasi",
+        "category_id": 33
+    },
+    {
+        "id": 832,
+        "direction_id": 2965,
+        "id_number": 70710503,
+        "university_id": 28,
+        "name_uz": "Sanoat issiqlik energetikasi",
+        "name_ru": "Sanoat issiqlik energetikasi",
+        "category_id": 33
+    },
+    {
+        "id": 833,
+        "direction_id": 2966,
+        "id_number": 70720702,
+        "university_id": 113,
+        "name_uz": "Sovutish, kriogen texnikasi va moʻtadillash tizimlari mashinalari hamda agregatlari",
+        "name_ru": "Sovutish, kriogen texnikasi va moʻtadillash tizimlari mashinalari hamda agregatlari",
+        "category_id": 33
+    },
+    {
+        "id": 834,
+        "direction_id": 2967,
+        "id_number": 70711901,
+        "university_id": 28,
+        "name_uz": "Texnologik jarayonlarni boshqarishning axborot",
+        "name_ru": "Texnologik jarayonlarni boshqarishning axborot",
+        "category_id": 33
+    },
+    {
+        "id": 835,
+        "direction_id": 2968,
+        "id_number": 70721401,
+        "university_id": 115,
+        "name_uz": "Texnologik mashinalar va jihozlarga texnik xizmat koʻrsatish (temir yoʻl transporti)",
+        "name_ru": "Texnologik mashinalar va jihozlarga texnik xizmat koʻrsatish (temir yoʻl transporti)",
+        "category_id": 33
+    },
+    {
+        "id": 836,
+        "direction_id": 2969,
+        "id_number": 70721402,
+        "university_id": 28,
+        "name_uz": "Texnologiyalar va jihozlar (tarmoqlar boʻyicha)",
+        "name_ru": "Texnologiyalar va jihozlar (tarmoqlar boʻyicha)",
+        "category_id": 33
+    },
+    {
+        "id": 837,
+        "direction_id": 2970,
+        "id_number": 70721204,
+        "university_id": 32,
+        "name_uz": "Tikuv buyumlari texnologiyasi va konstruksiyasini ishlash",
+        "name_ru": "Tikuv buyumlari texnologiyasi va konstruksiyasini ishlash",
+        "category_id": 33
+    },
+    {
+        "id": 838,
+        "direction_id": 2971,
+        "id_number": 70721201,
+        "university_id": 28,
+        "name_uz": "Toʻqimachilik mahsulotlari texnologiyasi (mahsulot turlari boʻyicha)",
+        "name_ru": "Toʻqimachilik mahsulotlari texnologiyasi (mahsulot turlari boʻyicha)",
+        "category_id": 33
+    },
+    {
+        "id": 839,
+        "direction_id": 2972,
+        "id_number": 70712508,
+        "university_id": 115,
+        "name_uz": "Vagonsozlik",
+        "name_ru": "Vagonsozlik",
+        "category_id": 33
+    },
+    {
+        "id": 840,
+        "direction_id": 2973,
+        "id_number": 70611802,
+        "university_id": 97,
+        "name_uz": "Videotexnologiyalar",
+        "name_ru": "Videotexnologiyalar",
+        "category_id": 33
+    },
+    {
+        "id": 841,
+        "direction_id": 2974,
+        "id_number": 70711002,
+        "university_id": 113,
+        "name_uz": "Vodorod energetikasi va texnologiyalari",
+        "name_ru": "Vodorod energetikasi va texnologiyalari",
+        "category_id": 33
+    },
+    {
+        "id": 842,
+        "direction_id": 2975,
+        "id_number": 70530905,
+        "university_id": 20,
+        "name_uz": "Yarimoʻtkazgichlar fizikasi",
+        "name_ru": "Yarimoʻtkazgichlar fizikasi",
+        "category_id": 33
+    },
+    {
+        "id": 843,
+        "direction_id": 2976,
+        "id_number": 70711204,
+        "university_id": 113,
+        "name_uz": "Yarimoʻtkazgichli materiallar nanotexnologiyasi",
+        "name_ru": "Yarimoʻtkazgichli materiallar nanotexnologiyasi",
+        "category_id": 33
+    },
+    {
+        "id": 844,
+        "direction_id": 2977,
+        "id_number": 70721403,
+        "university_id": 32,
+        "name_uz": "Yengil sanoat mahsulotlari texnologiyasi va jihozlari (mahsulot turlari boʻyicha)",
+        "name_ru": "Yengil sanoat mahsulotlari texnologiyasi va jihozlari (mahsulot turlari boʻyicha)",
+        "category_id": 33
+    },
+    {
+        "id": 845,
+        "direction_id": 2978,
+        "id_number": 70720706,
+        "university_id": 118,
+        "name_uz": "Yogʻochga ishlov berish texnologiyasi va yogʻochshunoslik",
+        "name_ru": "Yogʻochga ishlov berish texnologiyasi va yogʻochshunoslik",
+        "category_id": 33
+    },
+    {
+        "id": 846,
+        "direction_id": 2979,
+        "id_number": 70710103,
+        "university_id": 28,
+        "name_uz": "Yuqori molekulali birikmalar kimyoviy texnologiyasi (turlari boʻyicha)",
+        "name_ru": "Yuqori molekulali birikmalar kimyoviy texnologiyasi (turlari boʻyicha)",
+        "category_id": 33
+    },
+    {
+        "id": 847,
+        "direction_id": 2980,
+        "id_number": 70812102,
+        "university_id": 104,
+        "name_uz": "Ziravor va xushboʻy oʻsimliklarni yetishtirish va qayta ishlash texnologiyasi",
+        "name_ru": "Ziravor va xushboʻy oʻsimliklarni yetishtirish va qayta ishlash texnologiyasi",
+        "category_id": 33
+    },
+    {
+        "id": 848,
+        "direction_id": 2981,
+        "id_number": 70611502,
+        "university_id": 97,
+        "name_uz": "Antennalar va oʻta yuqori chastotali qurilmalar",
+        "name_ru": "Antennalar va oʻta yuqori chastotali qurilmalar",
+        "category_id": 33
+    },
+    {
+        "id": 849,
+        "direction_id": 2982,
+        "id_number": 70711701,
+        "university_id": 113,
+        "name_uz": "Lazer, yorugʻlik",
+        "name_ru": "Lazer, yorugʻlik",
+        "category_id": 33
+    },
+    {
+        "id": 850,
+        "direction_id": 2983,
+        "id_number": 70611401,
+        "university_id": 97,
+        "name_uz": "Pochta xizmatini tashkil etish va texnologiyasi",
+        "name_ru": "Pochta xizmatini tashkil etish va texnologiyasi",
+        "category_id": 33
+    },
+    {
+        "id": 851,
+        "direction_id": 2984,
+        "id_number": 70110602,
+        "university_id": 21,
+        "name_uz": "Taʼlimda axborot texnologiyalari",
+        "name_ru": "Taʼlimda axborot texnologiyalari",
+        "category_id": 33
+    },
+    {
+        "id": 852,
+        "direction_id": 2985,
+        "id_number": 70720101,
+        "university_id": 28,
+        "name_uz": "Oziq",
+        "name_ru": "Oziq",
+        "category_id": 1
+    },
+    {
+        "id": 853,
+        "direction_id": 2986,
+        "id_number": 70720710,
+        "university_id": 28,
+        "name_uz": "Oziq",
+        "name_ru": "Oziq",
+        "category_id": 1
+    },
+    {
+        "id": 854,
+        "direction_id": 2987,
+        "id_number": 70110102,
+        "university_id": 27,
+        "name_uz": "Pedagogika va psixologiya",
+        "name_ru": "Pedagogika va psixologiya",
+        "category_id": 30
+    },
+    {
+        "id": 855,
+        "direction_id": 2988,
+        "id_number": 70310901,
+        "university_id": 66,
+        "name_uz": "Psixologiya (din psixologiyasi)",
+        "name_ru": "Psixologiya (din psixologiyasi)",
+        "category_id": 30
+    },
+    {
+        "id": 856,
+        "direction_id": 2989,
+        "id_number": 70220503,
+        "university_id": 111,
+        "name_uz": "Tasavvuf germenevtikasi",
+        "name_ru": "Tasavvuf germenevtikasi",
+        "category_id": 30
+    },
+    {
+        "id": 857,
+        "direction_id": 2990,
+        "id_number": 70412401,
+        "university_id": 104,
+        "name_uz": "Agrobiznes va investitsion faoliyat",
+        "name_ru": "Agrobiznes va investitsion faoliyat",
+        "category_id": 9
+    },
+    {
+        "id": 858,
+        "direction_id": 2991,
+        "id_number": 70811902,
+        "university_id": 82,
+        "name_uz": "Kartoshkachilik",
+        "name_ru": "Kartoshkachilik",
+        "category_id": 9
+    },
+    {
+        "id": 859,
+        "direction_id": 2992,
+        "id_number": 70820202,
+        "university_id": 104,
+        "name_uz": "Manzarali bogʻdorchilik",
+        "name_ru": "Manzarali bogʻdorchilik",
+        "category_id": 9
+    },
+    {
+        "id": 860,
+        "direction_id": 2993,
+        "id_number": 70810102,
+        "university_id": 113,
+        "name_uz": "Qishloq xoʻjalik texnikasini loyihalashtirish va konstruksiyasini ishlash",
+        "name_ru": "Qishloq xoʻjalik texnikasini loyihalashtirish va konstruksiyasini ishlash",
+        "category_id": 9
+    },
+    {
+        "id": 861,
+        "direction_id": 2994,
+        "id_number": 70720705,
+        "university_id": 118,
+        "name_uz": "Sellyuloza",
+        "name_ru": "Sellyuloza",
+        "category_id": 9
+    },
+    {
+        "id": 862,
+        "direction_id": 2995,
+        "id_number": 70811802,
+        "university_id": 82,
+        "name_uz": "Subtropik va sitrus meva ekinlari",
+        "name_ru": "Subtropik va sitrus meva ekinlari",
+        "category_id": 9
+    },
+    {
+        "id": 863,
+        "direction_id": 2996,
+        "id_number": 70811702,
+        "university_id": 104,
+        "name_uz": "Tutchilik",
+        "name_ru": "Tutchilik",
+        "category_id": 9
+    },
+    {
+        "id": 864,
+        "direction_id": 2997,
+        "id_number": 70230103,
+        "university_id": 20,
+        "name_uz": "Folklorshunoslik va dialektologiya",
+        "name_ru": "Folklorshunoslik va dialektologiya",
+        "category_id": 12
+    },
+    {
+        "id": 865,
+        "direction_id": 2998,
+        "id_number": 70211501,
+        "university_id": 57,
+        "name_uz": "Fortepiano (organ)",
+        "name_ru": "Fortepiano (organ)",
+        "category_id": 12
+    },
+    {
+        "id": 866,
+        "direction_id": 2999,
+        "id_number": 70111301,
+        "university_id": 27,
+        "name_uz": "Musiqa taʼlimi va sanʼat",
+        "name_ru": "Musiqa taʼlimi va sanʼat",
+        "category_id": 12
+    },
+    {
+        "id": 867,
+        "direction_id": 3000,
+        "id_number": 70210801,
+        "university_id": 26,
+        "name_uz": "Tasviriy va amaliy bezak sanʼati (turlari boʻyicha)",
+        "name_ru": "Tasviriy va amaliy bezak sanʼati (turlari boʻyicha)",
+        "category_id": 12
+    },
+    {
+        "id": 868,
+        "direction_id": 3001,
+        "id_number": 70211401,
+        "university_id": 57,
+        "name_uz": "Vokal sanʼati: akademik xonandalik",
+        "name_ru": "Vokal sanʼati: akademik xonandalik",
+        "category_id": 12
+    },
+    {
+        "id": 869,
+        "direction_id": 3002,
+        "id_number": 70420102,
+        "university_id": 116,
+        "name_uz": "Xalqaro arbitraj va nizolarni hal etish",
+        "name_ru": "Xalqaro arbitraj va nizolarni hal etish",
+        "category_id": 12
+    },
+    {
+        "id": 870,
+        "direction_id": 3003,
+        "id_number": 70310701,
+        "university_id": 37,
+        "name_uz": "Amaliy siyosatshunoslik",
+        "name_ru": "Amaliy siyosatshunoslik",
+        "category_id": 59
+    },
+    {
+        "id": 871,
+        "direction_id": 3004,
+        "id_number": 70220402,
+        "university_id": 82,
+        "name_uz": "Etnogenez (oʻzbek xalqining etnik tarixi)",
+        "name_ru": "Etnogenez (oʻzbek xalqining etnik tarixi)",
+        "category_id": 59
+    },
+    {
+        "id": 872,
+        "direction_id": 3005,
+        "id_number": 70230501,
+        "university_id": 26,
+        "name_uz": "Etnografiya, etnologiya va antropologiya",
+        "name_ru": "Etnografiya, etnologiya va antropologiya",
+        "category_id": 59
+    },
+    {
+        "id": 873,
+        "direction_id": 3006,
+        "id_number": 70212201,
+        "university_id": 77,
+        "name_uz": "Madaniy meros obyektlarini asrash va foydalanish",
+        "name_ru": "Madaniy meros obyektlarini asrash va foydalanish",
+        "category_id": 59
+    },
+    {
+        "id": 874,
+        "direction_id": 3007,
+        "id_number": 70311001,
+        "university_id": 30,
+        "name_uz": "Sotsiologiya (yoʻnalishlar boʻyicha)",
+        "name_ru": "Sotsiologiya (yoʻnalishlar boʻyicha)",
+        "category_id": 59
+    },
+    {
+        "id": 875,
+        "direction_id": 3008,
+        "id_number": 70220301,
+        "university_id": 20,
+        "name_uz": "Tarix (yoʻnalishlar va faoliyat turi boʻyicha)",
+        "name_ru": "Tarix (yoʻnalishlar va faoliyat turi boʻyicha)",
+        "category_id": 59
+    },
+    {
+        "id": 876,
+        "direction_id": 3009,
+        "id_number": 70220303,
+        "university_id": 26,
+        "name_uz": "Tarixshunoslik, manbashunoslik va tarixiy tadqiqot usullari (mamlakatlar boʻyicha)",
+        "name_ru": "Tarixshunoslik, manbashunoslik va tarixiy tadqiqot usullari (mamlakatlar boʻyicha)",
+        "category_id": 59
+    },
+    {
+        "id": 877,
+        "direction_id": 3010,
+        "id_number": 70420130,
+        "university_id": 116,
+        "name_uz": "Xalqaro tijorat huquqi",
+        "name_ru": "Xalqaro tijorat huquqi",
+        "category_id": 59
+    },
+    {
+        "id": 878,
+        "direction_id": 3011,
+        "id_number": 70110501,
+        "university_id": 21,
+        "name_uz": "Taʼlim va tarbiya nazariyasi va metodikasi (boshlangʻich taʼlim)",
+        "name_ru": "Taʼlim va tarbiya nazariyasi va metodikasi (boshlangʻich taʼlim)",
+        "category_id": 10
+    },
+    {
+        "id": 879,
+        "direction_id": 3012,
+        "id_number": 70110104,
+        "university_id": 110,
+        "name_uz": "Testologiya va pedagogik oʻlchovlarni baholash",
+        "name_ru": "Testologiya va pedagogik oʻlchovlarni baholash",
+        "category_id": 10
+    },
+    {
+        "id": 880,
+        "direction_id": 3013,
+        "id_number": 70112001,
+        "university_id": 30,
+        "name_uz": "Taʼlim va tarbiya nazariyasi va metodikasi (chaqiriqqacha harbiy taʼlim)",
+        "name_ru": "Taʼlim va tarbiya nazariyasi va metodikasi (chaqiriqqacha harbiy taʼlim)",
+        "category_id": 10
+    },
+    {
+        "id": 881,
+        "direction_id": 3014,
+        "id_number": 70110201,
+        "university_id": 21,
+        "name_uz": "Taʼlim va tarbiya nazariyasi va metodikasi (maktabgacha taʼlim)",
+        "name_ru": "Taʼlim va tarbiya nazariyasi va metodikasi (maktabgacha taʼlim)",
+        "category_id": 10
+    },
+    {
+        "id": 882,
+        "direction_id": 3015,
+        "id_number": 70112301,
+        "university_id": 21,
+        "name_uz": "Taʼlim va tarbiya nazariyasi va metodikasi (texnologik taʼlim)",
+        "name_ru": "Taʼlim va tarbiya nazariyasi va metodikasi (texnologik taʼlim)",
+        "category_id": 10
+    },
+    {
+        "id": 883,
+        "direction_id": 3016,
+        "id_number": 70540201,
+        "university_id": 26,
+        "name_uz": "Amaliy matematika (sohalar boʻyicha)",
+        "name_ru": "Amaliy matematika (sohalar boʻyicha)",
+        "category_id": 6
+    },
+    {
+        "id": 884,
+        "direction_id": 3017,
+        "id_number": 70110901,
+        "university_id": 27,
+        "name_uz": "Aniq va tabiiy fanlarni oʻqitish metodikasi (biologiya)",
+        "name_ru": "Aniq va tabiiy fanlarni oʻqitish metodikasi (biologiya)",
+        "category_id": 6
+    },
+    {
+        "id": 885,
+        "direction_id": 3018,
+        "id_number": 70110701,
+        "university_id": 39,
+        "name_uz": "Aniq va tabiiy fanlarni oʻqitish metodikasi (fizika va astronomiya)",
+        "name_ru": "Aniq va tabiiy fanlarni oʻqitish metodikasi (fizika va astronomiya)",
+        "category_id": 6
+    },
+    {
+        "id": 886,
+        "direction_id": 3019,
+        "id_number": 70111001,
+        "university_id": 27,
+        "name_uz": "Aniq va tabiiy fanlarni oʻqitish metodikasi (geografiya)",
+        "name_ru": "Aniq va tabiiy fanlarni oʻqitish metodikasi (geografiya)",
+        "category_id": 6
+    },
+    {
+        "id": 887,
+        "direction_id": 3020,
+        "id_number": 70110801,
+        "university_id": 27,
+        "name_uz": "Aniq va tabiiy fanlarni oʻqitish metodikasi (kimyo)",
+        "name_ru": "Aniq va tabiiy fanlarni oʻqitish metodikasi (kimyo)",
+        "category_id": 6
+    },
+    {
+        "id": 888,
+        "direction_id": 3021,
+        "id_number": 70110601,
+        "university_id": 39,
+        "name_uz": "Aniq va tabiiy fanlarni oʻqitish metodikasi (matematika)",
+        "name_ru": "Aniq va tabiiy fanlarni oʻqitish metodikasi (matematika)",
+        "category_id": 6
+    },
+    {
+        "id": 889,
+        "direction_id": 3022,
+        "id_number": 70510101,
+        "university_id": 20,
+        "name_uz": "Biologiya (fan yoʻnalishi boʻyicha)",
+        "name_ru": "Biologiya (fan yoʻnalishi boʻyicha)",
+        "category_id": 6
+    },
+    {
+        "id": 890,
+        "direction_id": 3023,
+        "id_number": 70530702,
+        "university_id": 30,
+        "name_uz": "Eksperimental agrokimyo",
+        "name_ru": "Eksperimental agrokimyo",
+        "category_id": 6
+    },
+    {
+        "id": 891,
+        "direction_id": 3024,
+        "id_number": 70721603,
+        "university_id": 33,
+        "name_uz": "Geologiya",
+        "name_ru": "Geologiya",
+        "category_id": 6
+    },
+    {
+        "id": 892,
+        "direction_id": 3025,
+        "id_number": 70540101,
+        "university_id": 20,
+        "name_uz": "Matematika (yoʻnalishlar boʻyicha)",
+        "name_ru": "Matematika (yoʻnalishlar boʻyicha)",
+        "category_id": 6
+    },
+    {
+        "id": 893,
+        "direction_id": 3026,
+        "id_number": 70710506,
+        "university_id": 113,
+        "name_uz": "Yadro energetikasi va issiqlik fizikasi",
+        "name_ru": "Yadro energetikasi va issiqlik fizikasi",
+        "category_id": 6
+    },
+    {
+        "id": 894,
+        "direction_id": 3027,
+        "id_number": 70910102,
+        "university_id": 81,
+        "name_uz": "Yuz",
+        "name_ru": "Yuz",
+        "category_id": 4
+    },
+    {
+        "id": 895,
+        "direction_id": 3028,
+        "id_number": 70910201,
+        "university_id": 124,
+        "name_uz": "Akusherlik va ginekologiya",
+        "name_ru": "Akusherlik va ginekologiya",
+        "category_id": 4
+    },
+    {
+        "id": 896,
+        "direction_id": 3029,
+        "id_number": 70910220,
+        "university_id": 123,
+        "name_uz": "Anesteziologiya va reanimatologiya",
+        "name_ru": "Anesteziologiya va reanimatologiya",
+        "category_id": 4
+    },
+    {
+        "id": 897,
+        "direction_id": 3030,
+        "id_number": 70910303,
+        "university_id": 19,
+        "name_uz": "Bolalar anesteziologiyasi va reanimatologiyasi",
+        "name_ru": "Bolalar anesteziologiyasi va reanimatologiyasi",
+        "category_id": 4
+    },
+    {
+        "id": 898,
+        "direction_id": 3031,
+        "id_number": 70910308,
+        "university_id": 81,
+        "name_uz": "Bolalar gastroenterologiyasi",
+        "name_ru": "Bolalar gastroenterologiyasi",
+        "category_id": 4
+    },
+    {
+        "id": 899,
+        "direction_id": 3032,
+        "id_number": 70910304,
+        "university_id": 122,
+        "name_uz": "Bolalar kardiologiyasi va revmatologiyasi",
+        "name_ru": "Bolalar kardiologiyasi va revmatologiyasi",
+        "category_id": 4
+    },
+    {
+        "id": 900,
+        "direction_id": 3033,
+        "id_number": 70910305,
+        "university_id": 81,
+        "name_uz": "Bolalar nevrologiyasi",
+        "name_ru": "Bolalar nevrologiyasi",
+        "category_id": 4
+    },
+    {
+        "id": 901,
+        "direction_id": 3034,
+        "id_number": 70910309,
+        "university_id": 122,
+        "name_uz": "Bolalar pulmonologiyasi",
+        "name_ru": "Bolalar pulmonologiyasi",
+        "category_id": 4
+    },
+    {
+        "id": 902,
+        "direction_id": 3035,
+        "id_number": 70910307,
+        "university_id": 81,
+        "name_uz": "Bolalar va oʻsmirlar ginekologiyasi",
+        "name_ru": "Bolalar va oʻsmirlar ginekologiyasi",
+        "category_id": 4
+    },
+    {
+        "id": 903,
+        "direction_id": 3036,
+        "id_number": 70910302,
+        "university_id": 19,
+        "name_uz": "Bolalar xirurgiyasi",
+        "name_ru": "Bolalar xirurgiyasi",
+        "category_id": 4
+    },
+    {
+        "id": 904,
+        "direction_id": 3037,
+        "id_number": 70910208,
+        "university_id": 19,
+        "name_uz": "Dermatovenerologiya",
+        "name_ru": "Dermatovenerologiya",
+        "category_id": 4
+    },
+    {
+        "id": 905,
+        "direction_id": 3038,
+        "id_number": 70910202,
+        "university_id": 19,
+        "name_uz": "Endokrinologiya",
+        "name_ru": "Endokrinologiya",
+        "category_id": 4
+    },
+    {
+        "id": 906,
+        "direction_id": 3039,
+        "id_number": 70811002,
+        "university_id": 104,
+        "name_uz": "Entomologiya",
+        "name_ru": "Entomologiya",
+        "category_id": 4
+    },
+    {
+        "id": 907,
+        "direction_id": 3040,
+        "id_number": 70910225,
+        "university_id": 81,
+        "name_uz": "Farmakologiya",
+        "name_ru": "Farmakologiya",
+        "category_id": 4
+    },
+    {
+        "id": 908,
+        "direction_id": 3041,
+        "id_number": 70910701,
+        "university_id": 19,
+        "name_uz": "Farmatsevtik kimyo va farmakognoziya",
+        "name_ru": "Farmatsevtik kimyo va farmakognoziya",
+        "category_id": 4
+    },
+    {
+        "id": 909,
+        "direction_id": 3042,
+        "id_number": 70811003,
+        "university_id": 104,
+        "name_uz": "Fitopatologiya",
+        "name_ru": "Fitopatologiya",
+        "category_id": 4
+    },
+    {
+        "id": 910,
+        "direction_id": 3043,
+        "id_number": 70910228,
+        "university_id": 19,
+        "name_uz": "Ftiziatriya",
+        "name_ru": "Ftiziatriya",
+        "category_id": 4
+    },
+    {
+        "id": 911,
+        "direction_id": 3044,
+        "id_number": 70910401,
+        "university_id": 19,
+        "name_uz": "Gigiyena (yoʻnalishlar boʻyicha)",
+        "name_ru": "Gigiyena (yoʻnalishlar boʻyicha)",
+        "category_id": 4
+    },
+    {
+        "id": 912,
+        "direction_id": 3045,
+        "id_number": 70910205,
+        "university_id": 19,
+        "name_uz": "Kardiologiya",
+        "name_ru": "Kardiologiya",
+        "category_id": 4
+    },
+    {
+        "id": 913,
+        "direction_id": 3046,
+        "id_number": 70910601,
+        "university_id": 19,
+        "name_uz": "Laboratoriya ishi",
+        "name_ru": "Laboratoriya ishi",
+        "category_id": 4
+    },
+    {
+        "id": 914,
+        "direction_id": 3047,
+        "id_number": 70420125,
+        "university_id": 116,
+        "name_uz": "Mediatsiya va nizolarni muqobil hal etish usullari",
+        "name_ru": "Mediatsiya va nizolarni muqobil hal etish usullari",
+        "category_id": 4
+    },
+    {
+        "id": 915,
+        "direction_id": 3048,
+        "id_number": 70510102,
+        "university_id": 68,
+        "name_uz": "Mikrobiologiya va virusologiya",
+        "name_ru": "Mikrobiologiya va virusologiya",
+        "category_id": 4
+    },
+    {
+        "id": 916,
+        "direction_id": 3049,
+        "id_number": 70910219,
+        "university_id": 123,
+        "name_uz": "Narkologiya",
+        "name_ru": "Narkologiya",
+        "category_id": 4
+    },
+    {
+        "id": 917,
+        "direction_id": 3050,
+        "id_number": 70910306,
+        "university_id": 122,
+        "name_uz": "Neonatologiya",
+        "name_ru": "Neonatologiya",
+        "category_id": 4
+    },
+    {
+        "id": 918,
+        "direction_id": 3051,
+        "id_number": 70910209,
+        "university_id": 19,
+        "name_uz": "Nevrologiya",
+        "name_ru": "Nevrologiya",
+        "category_id": 4
+    },
+    {
+        "id": 919,
+        "direction_id": 3052,
+        "id_number": 70910234,
+        "university_id": 122,
+        "name_uz": "Neyroreabilitologiya",
+        "name_ru": "Neyroreabilitologiya",
+        "category_id": 4
+    },
+    {
+        "id": 920,
+        "direction_id": 3053,
+        "id_number": 70910214,
+        "university_id": 19,
+        "name_uz": "Neyroxirurgiya",
+        "name_ru": "Neyroxirurgiya",
+        "category_id": 4
+    },
+    {
+        "id": 921,
+        "direction_id": 3054,
+        "id_number": 70230601,
+        "university_id": 63,
+        "name_uz": "Noshirlik ishi va muharrirlik",
+        "name_ru": "Noshirlik ishi va muharrirlik",
+        "category_id": 4
+    },
+    {
+        "id": 922,
+        "direction_id": 3055,
+        "id_number": 70910206,
+        "university_id": 19,
+        "name_uz": "Oftalmologiya",
+        "name_ru": "Oftalmologiya",
+        "category_id": 4
+    },
+    {
+        "id": 923,
+        "direction_id": 3056,
+        "id_number": 70911201,
+        "university_id": 123,
+        "name_uz": "Oliy hamshiralik ishini tashkil qilish va boshqarish",
+        "name_ru": "Oliy hamshiralik ishini tashkil qilish va boshqarish",
+        "category_id": 4
+    },
+    {
+        "id": 924,
+        "direction_id": 3057,
+        "id_number": 70910204,
+        "university_id": 19,
+        "name_uz": "Otorinolaringologiya",
+        "name_ru": "Otorinolaringologiya",
+        "category_id": 4
+    },
+    {
+        "id": 925,
+        "direction_id": 3058,
+        "id_number": 70910223,
+        "university_id": 25,
+        "name_uz": "Patologik anatomiya",
+        "name_ru": "Patologik anatomiya",
+        "category_id": 4
+    },
+    {
+        "id": 926,
+        "direction_id": 3059,
+        "id_number": 70910301,
+        "university_id": 19,
+        "name_uz": "Pediatriya (yoʻnalishlar boʻyicha)",
+        "name_ru": "Pediatriya (yoʻnalishlar boʻyicha)",
+        "category_id": 4
+    },
+    {
+        "id": 927,
+        "direction_id": 3060,
+        "id_number": 70910229,
+        "university_id": 123,
+        "name_uz": "Plastik xirurgiya",
+        "name_ru": "Plastik xirurgiya",
+        "category_id": 4
+    },
+    {
+        "id": 928,
+        "direction_id": 3061,
+        "id_number": 70910211,
+        "university_id": 19,
+        "name_uz": "Psixiatriya",
+        "name_ru": "Psixiatriya",
+        "category_id": 4
+    },
+    {
+        "id": 929,
+        "direction_id": 3062,
+        "id_number": 70910232,
+        "university_id": 123,
+        "name_uz": "Reabilitologiya",
+        "name_ru": "Reabilitologiya",
+        "category_id": 4
+    },
+    {
+        "id": 930,
+        "direction_id": 3063,
+        "id_number": 70910224,
+        "university_id": 25,
+        "name_uz": "Shoshilinch tibbiy yordam",
+        "name_ru": "Shoshilinch tibbiy yordam",
+        "category_id": 4
+    },
+    {
+        "id": 931,
+        "direction_id": 3064,
+        "id_number": 70910215,
+        "university_id": 19,
+        "name_uz": "Sogʻliqni saqlashni boshqarish va jamoat sogʻligini saqlash (yoʻnalishlar boʻyicha)",
+        "name_ru": "Sogʻliqni saqlashni boshqarish va jamoat sogʻligini saqlash (yoʻnalishlar boʻyicha)",
+        "category_id": 4
+    },
+    {
+        "id": 932,
+        "direction_id": 3065,
+        "id_number": 70910101,
+        "university_id": 19,
+        "name_uz": "Stomatologiya (yoʻnalishlar boʻyicha)",
+        "name_ru": "Stomatologiya (yoʻnalishlar boʻyicha)",
+        "category_id": 4
+    },
+    {
+        "id": 933,
+        "direction_id": 3066,
+        "id_number": 70910213,
+        "university_id": 123,
+        "name_uz": "Tashxisning instrumental va funksional usullari: bakteriologiya va virusologiya",
+        "name_ru": "Tashxisning instrumental va funksional usullari: bakteriologiya va virusologiya",
+        "category_id": 4
+    },
+    {
+        "id": 934,
+        "direction_id": 3067,
+        "id_number": 70910203,
+        "university_id": 19,
+        "name_uz": "Terapiya (yoʻnalishlar boʻyicha)",
+        "name_ru": "Terapiya (yoʻnalishlar boʻyicha)",
+        "category_id": 4
+    },
+    {
+        "id": 935,
+        "direction_id": 3068,
+        "id_number": 70711801,
+        "university_id": 23,
+        "name_uz": "Tibbiy",
+        "name_ru": "Tibbiy",
+        "category_id": 4
+    },
+    {
+        "id": 936,
+        "direction_id": 3069,
+        "id_number": 70910230,
+        "university_id": 123,
+        "name_uz": "Tibbiy genetika",
+        "name_ru": "Tibbiy genetika",
+        "category_id": 4
+    },
+    {
+        "id": 937,
+        "direction_id": 3070,
+        "id_number": 70910216,
+        "university_id": 25,
+        "name_uz": "Tibbiy psixologiya",
+        "name_ru": "Tibbiy psixologiya",
+        "category_id": 4
+    },
+    {
+        "id": 938,
+        "direction_id": 3071,
+        "id_number": 70910227,
+        "university_id": 19,
+        "name_uz": "Tibbiy radiologiya",
+        "name_ru": "Tibbiy radiologiya",
+        "category_id": 4
+    },
+    {
+        "id": 939,
+        "direction_id": 3072,
+        "id_number": 70910231,
+        "university_id": 123,
+        "name_uz": "Tibbiy sugʻurta ishi",
+        "name_ru": "Tibbiy sugʻurta ishi",
+        "category_id": 4
+    },
+    {
+        "id": 940,
+        "direction_id": 3073,
+        "id_number": 70910221,
+        "university_id": 19,
+        "name_uz": "Travmatologiya va ortopediya",
+        "name_ru": "Travmatologiya va ortopediya",
+        "category_id": 4
+    },
+    {
+        "id": 941,
+        "direction_id": 3074,
+        "id_number": 70910403,
+        "university_id": 123,
+        "name_uz": "Umumiy epidemiologiya",
+        "name_ru": "Umumiy epidemiologiya",
+        "category_id": 4
+    },
+    {
+        "id": 942,
+        "direction_id": 3075,
+        "id_number": 70910210,
+        "university_id": 19,
+        "name_uz": "Umumiy onkologiya",
+        "name_ru": "Umumiy onkologiya",
+        "category_id": 4
+    },
+    {
+        "id": 943,
+        "direction_id": 3076,
+        "id_number": 70910217,
+        "university_id": 123,
+        "name_uz": "Urologiya",
+        "name_ru": "Urologiya",
+        "category_id": 4
+    },
+    {
+        "id": 944,
+        "direction_id": 3077,
+        "id_number": 70910212,
+        "university_id": 19,
+        "name_uz": "Xirurgiya (yoʻnalishlar boʻyicha)",
+        "name_ru": "Xirurgiya (yoʻnalishlar boʻyicha)",
+        "category_id": 4
+    },
+    {
+        "id": 945,
+        "direction_id": 3078,
+        "id_number": 70910207,
+        "university_id": 123,
+        "name_uz": "Yuqumli kasalliklar: Yuqumli kasalliklar",
+        "name_ru": "Yuqumli kasalliklar: Yuqumli kasalliklar",
+        "category_id": 4
+    },
+    {
+        "id": 946,
+        "direction_id": 3079,
+        "id_number": 71010101,
+        "university_id": 45,
+        "name_uz": "Mehmonxona xoʻjaligini tashkil etish va boshqarish",
+        "name_ru": "Mehmonxona xoʻjaligini tashkil etish va boshqarish",
+        "category_id": 13
+    }
+]
